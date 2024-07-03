@@ -1,0 +1,14 @@
+pandas
+matplotlib
+plotly-express
+seaborn
+scikit-learn
+yfinance
+pandas_ta
+pandas_datareader
+scipy
+numpy
+ydata-profiling
+keras
+#pmdarima
+#statsmodel

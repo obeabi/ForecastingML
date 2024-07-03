@@ -1,0 +1,50 @@
+2024-07-03 10:55:54,922 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 10:58:38,691 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 10:58:56,234 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 10:59:46,411 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 11:06:11,464 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 11:06:33,398 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 11:07:21,429 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 11:07:35,383 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 11:29:10,054 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 11:30:42,534 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 11:30:42,542 - INFO - Successfully enriched data with date fields
+2024-07-03 11:31:02,783 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 11:31:02,794 - INFO - Successfully enriched data with date fields
+2024-07-03 11:31:30,462 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 11:31:30,472 - INFO - Successfully enriched data with date fields
+2024-07-03 11:31:45,721 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 11:31:45,730 - INFO - Successfully enriched data with date fields
+2024-07-03 11:32:07,713 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 11:32:07,724 - INFO - Successfully enriched data with date fields
+2024-07-03 11:32:37,170 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 11:32:37,179 - INFO - Successfully enriched data with date fields
+2024-07-03 11:36:11,013 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 11:36:11,025 - INFO - Successfully enriched data with date fields
+2024-07-03 11:37:33,985 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 11:37:33,998 - INFO - Successfully enriched data with date fields
+2024-07-03 11:38:00,870 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 11:38:00,882 - INFO - Successfully enriched data with date fields
+2024-07-03 11:44:23,053 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 11:44:23,067 - INFO - Successfully enriched data with date fields
+2024-07-03 11:44:23,101 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 11:44:44,353 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 11:44:44,364 - INFO - Successfully enriched data with date fields
+2024-07-03 11:44:44,396 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 11:50:22,946 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 11:50:22,957 - INFO - Successfully enriched data with date fields
+2024-07-03 11:50:23,278 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 12:08:06,387 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 12:08:06,398 - INFO - Successfully enriched data with date fields
+2024-07-03 12:08:06,688 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 12:08:07,100 - INFO - Successfully extracted CPI data fields
+2024-07-03 12:08:07,363 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 12:08:07,579 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 12:08:07,580 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 12:10:04,928 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 12:10:04,947 - INFO - Successfully enriched data with date fields
+2024-07-03 12:10:05,229 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 12:10:05,511 - INFO - Successfully extracted CPI data fields
+2024-07-03 12:10:05,580 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 12:10:05,666 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 12:10:05,666 - INFO - Successfully generated the macro-economical dataframes
