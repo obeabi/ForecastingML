@@ -1263,3 +1263,25 @@
 2024-07-03 23:39:28,361 - INFO - Successfully enriched data with date fields
 2024-07-03 23:39:28,476 - INFO - Successfully enriched data with technical indicator fields
 2024-07-03 23:39:28,476 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:47:28,150 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:47:28,150 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:47:28,265 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:47:28,265 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:47:28,350 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:47:28,350 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:47:28,351 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:47:28,351 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:47:28,850 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:47:28,850 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:47:28,860 - INFO - Successfully enriched data with date fields
+2024-07-03 23:47:28,860 - INFO - Successfully enriched data with date fields
+2024-07-03 23:47:28,990 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:47:28,990 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:51:24,229 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:51:24,229 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:51:51,033 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:51:51,033 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:51:51,041 - INFO - Successfully enriched data with date fields
+2024-07-03 23:51:51,041 - INFO - Successfully enriched data with date fields
+2024-07-03 23:51:51,201 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:51:51,201 - INFO - Successfully enriched data with technical indicator fields

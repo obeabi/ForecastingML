@@ -43,6 +43,8 @@ class instrument:
                 df['Volatility_10'] = df['Close'].rolling(window=10).std()
                 df['MA_20'] = df['Close'].rolling(window=20).mean()
                 df['Volatility_20'] = df['Close'].rolling(window=20).std()
+                df['Return'] = df['Close'].pct_change()
+                df['Target'] = np.where(df['Close'].shift(-1) > df['Close'], 1, 0)
             elif self.interval == '1wk':
                 df = df.copy()
                 # Resample daily data to weekly frequency
@@ -56,6 +58,8 @@ class instrument:
                 df['Volatility_10'] = df['Close'].rolling(window=10).std()
                 df['MA_20'] = df['Close'].rolling(window=20).mean()
                 df['Volatility_20'] = df['Close'].rolling(window=20).std()
+                df['Return'] = df['Close'].pct_change()
+                df['Target'] = np.where(df['Close'].shift(-1) > df['Close'], 1, 0)
 
             elif self.interval == '1mo':
                 df = df.copy()
@@ -69,13 +73,15 @@ class instrument:
                 df['Volatility_10'] = df['Close'].rolling(window=10).std()
                 df['MA_20'] = df['Close'].rolling(window=20).mean()
                 df['Volatility_20'] = df['Close'].rolling(window=20).std()
+                df['Return'] = df['Close'].pct_change()
+                df['Target'] = np.where(df['Close'].shift(-1) > df['Close'], 1, 0)
             else:
                 print("Wrong input!")
 
             logs.log("Successfully downloaded price-action data from yahoo finance API")
             return df[
                 ['Open', 'High', 'Low', 'Close', 'Volume', 'open-close', 'low-high', 'MA_10', 'Volatility_10', 'MA_20',
-                 'Volatility_20']]
+                 'Volatility_20', 'Return', 'Target']]
         except Exception as e:
             raise ValueError(f"Error in preprocessing data: {e}")
             logs.log("Something went wrong while downloading price-action data from yahoo finance API", level='ERROR')
@@ -124,8 +130,6 @@ class instrument:
             df.ta.macd(close="Close", append=True)
             df.ta.atr(length=14, append=True)
             df.ta.bbands(append=True)
-            df['Return'] = df['Close'].pct_change()
-            df['Target'] = np.where(df['Close'].shift(-1) > df['Close'], 1, 0)
             # Calculate ADX, +DI, and -DI
             adx = ta.adx(df['High'], df['Low'], df['Close'])
             # Append the ADX, +DI, and -DI to the original DataFrame
@@ -317,7 +321,7 @@ class instrument:
                 merged_df3.set_index('Date', inplace=True)
 
             column_names = ['Open', 'High', 'Low', 'Close', 'Volume', 'open-close', 'low-high', 'RSI_14', 'ATRr_14',
-                            'Return', 'VIX', 'Target', 'CPIAUCNS', 'FEDFUNDS','NonfarmPayrolls']
+                            'Return', 'VIX', 'Target', 'CPIAUCNS', 'FEDFUNDS', 'NonfarmPayrolls']
             logs.log("Successfully enriched data with date fields")
             return merged_df3[column_names]
         except Exception as e:
