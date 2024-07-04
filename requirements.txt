@@ -9,6 +9,5 @@ pandas_datareader
 scipy
 numpy
 ydata-profiling
-keras
-#pmdarima
-#statsmodel
+pmdarima
+statsmodels

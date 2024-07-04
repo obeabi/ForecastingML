@@ -48,3 +48,1218 @@
 2024-07-03 12:10:05,580 - INFO - Successfully extracted the Fed fund rates data fields
 2024-07-03 12:10:05,666 - INFO - Successfully extracted the Non-farm Payrolls data fields
 2024-07-03 12:10:05,666 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 20:53:15,469 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 20:53:15,484 - INFO - Successfully enriched data with date fields
+2024-07-03 20:53:15,767 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 20:53:16,079 - INFO - Successfully extracted CPI data fields
+2024-07-03 20:53:16,253 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 20:53:16,510 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 20:53:16,510 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 20:54:02,420 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 20:54:02,434 - INFO - Successfully enriched data with date fields
+2024-07-03 20:54:02,786 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 20:54:02,898 - INFO - Successfully extracted CPI data fields
+2024-07-03 20:54:02,980 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 20:54:03,055 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 20:54:03,055 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 20:54:27,261 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 20:54:27,272 - INFO - Successfully enriched data with date fields
+2024-07-03 20:54:27,593 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 20:54:27,676 - INFO - Successfully extracted CPI data fields
+2024-07-03 20:54:27,731 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 20:54:27,786 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 20:54:27,786 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 20:54:41,513 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 20:54:41,528 - INFO - Successfully enriched data with date fields
+2024-07-03 20:54:41,866 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 20:54:41,952 - INFO - Successfully extracted CPI data fields
+2024-07-03 20:54:42,053 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 20:54:42,136 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 20:54:42,136 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 20:55:14,780 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 20:55:14,793 - INFO - Successfully enriched data with date fields
+2024-07-03 20:55:15,081 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 20:55:15,292 - INFO - Successfully extracted CPI data fields
+2024-07-03 20:55:15,350 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 20:55:15,408 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 20:55:15,408 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:02:19,670 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:02:19,670 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:02:19,682 - INFO - Successfully enriched data with date fields
+2024-07-03 21:02:19,682 - INFO - Successfully enriched data with date fields
+2024-07-03 21:02:19,940 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 21:02:19,940 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 21:02:20,290 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:02:20,290 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:02:20,415 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:02:20,415 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:02:20,671 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:02:20,671 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:02:20,672 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:02:20,672 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:03:02,169 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:03:02,169 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:03:02,178 - INFO - Successfully enriched data with date fields
+2024-07-03 21:03:02,178 - INFO - Successfully enriched data with date fields
+2024-07-03 21:03:02,363 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 21:03:02,363 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 21:03:02,590 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:03:02,590 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:03:02,640 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:03:02,640 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:03:02,711 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:03:02,711 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:03:02,711 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:03:02,711 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:05:29,030 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:05:29,030 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:06:31,593 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:06:31,593 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:06:31,978 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:06:31,978 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:06:32,237 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:06:32,237 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:06:32,449 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:06:32,449 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:06:32,449 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:06:32,449 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:07:59,985 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:07:59,985 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:08:00,232 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:08:00,232 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:08:00,330 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:08:00,330 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:08:00,403 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:08:00,403 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:08:00,403 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:08:00,403 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:10:53,932 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:10:53,932 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:10:54,379 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:10:54,379 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:10:54,534 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:10:54,534 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:10:54,729 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:10:54,729 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:10:54,729 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:10:54,729 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:11:33,240 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:11:33,240 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:11:33,355 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:11:33,355 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:11:33,431 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:11:33,431 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:11:33,520 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:11:33,520 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:11:33,521 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:11:33,521 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:20:45,936 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:20:45,936 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:20:46,079 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:20:46,079 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:20:46,216 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:20:46,216 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:20:46,392 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:20:46,392 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:20:46,392 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:20:46,392 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:21:04,914 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:21:04,914 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:21:04,978 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:21:04,978 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:21:05,050 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:21:05,050 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:21:05,098 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:21:05,098 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:21:05,098 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:21:05,098 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:21:27,964 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:21:27,964 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:21:28,187 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:21:28,187 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:21:28,240 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:21:28,240 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:21:28,322 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:21:28,322 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:21:28,322 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:21:28,322 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:22:12,482 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:22:12,482 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:22:12,597 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:22:12,597 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:22:12,654 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:22:12,654 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:22:12,700 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:22:12,700 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:22:12,700 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:22:12,700 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:37:34,702 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:37:34,702 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:37:34,711 - INFO - Successfully enriched data with date fields
+2024-07-03 21:37:34,711 - INFO - Successfully enriched data with date fields
+2024-07-03 21:37:34,905 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 21:37:34,905 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 21:37:35,211 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:37:35,211 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:37:35,407 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:37:35,407 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:37:35,625 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:37:35,625 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:37:35,625 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:37:35,625 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:38:23,125 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:38:23,125 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:38:23,132 - INFO - Successfully enriched data with date fields
+2024-07-03 21:38:23,132 - INFO - Successfully enriched data with date fields
+2024-07-03 21:38:23,252 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 21:38:23,252 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 21:38:23,434 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:38:23,434 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:38:23,494 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:38:23,494 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:38:23,547 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:38:23,547 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:38:23,547 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:38:23,547 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:43:10,621 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:43:10,621 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 21:43:10,628 - INFO - Successfully enriched data with date fields
+2024-07-03 21:43:10,628 - INFO - Successfully enriched data with date fields
+2024-07-03 21:43:10,780 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 21:43:10,780 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 21:43:11,136 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:43:11,136 - INFO - Successfully extracted CPI data fields
+2024-07-03 21:43:11,308 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:43:11,308 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 21:43:11,480 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:43:11,480 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 21:43:11,481 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:43:11,481 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 21:43:11,498 - INFO - Successfully enriched data with date fields
+2024-07-03 21:43:11,498 - INFO - Successfully enriched data with date fields
+2024-07-03 22:03:41,761 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:03:41,761 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:03:41,770 - INFO - Successfully enriched data with date fields
+2024-07-03 22:03:41,770 - INFO - Successfully enriched data with date fields
+2024-07-03 22:03:41,933 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:03:41,933 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:03:42,269 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:03:42,269 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:03:42,519 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:03:42,519 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:03:42,647 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:03:42,647 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:03:42,647 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:03:42,647 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:03:42,661 - INFO - Successfully enriched data with date fields
+2024-07-03 22:03:42,661 - INFO - Successfully enriched data with date fields
+2024-07-03 22:04:52,448 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:04:52,448 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:04:52,459 - INFO - Successfully enriched data with date fields
+2024-07-03 22:04:52,459 - INFO - Successfully enriched data with date fields
+2024-07-03 22:04:52,633 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:04:52,633 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:04:52,768 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:04:52,768 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:04:52,847 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:04:52,847 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:04:52,923 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:04:52,923 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:04:52,923 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:04:52,923 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:04:52,940 - INFO - Successfully enriched data with date fields
+2024-07-03 22:04:52,940 - INFO - Successfully enriched data with date fields
+2024-07-03 22:06:12,216 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:06:12,216 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:06:12,224 - INFO - Successfully enriched data with date fields
+2024-07-03 22:06:12,224 - INFO - Successfully enriched data with date fields
+2024-07-03 22:06:12,433 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:06:12,433 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:06:12,525 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:06:12,525 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:06:12,793 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:06:12,793 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:06:12,855 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:06:12,855 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:06:12,855 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:06:12,855 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:06:12,869 - INFO - Successfully enriched data with date fields
+2024-07-03 22:06:12,869 - INFO - Successfully enriched data with date fields
+2024-07-03 22:09:58,884 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:09:58,884 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:09:58,891 - INFO - Successfully enriched data with date fields
+2024-07-03 22:09:58,891 - INFO - Successfully enriched data with date fields
+2024-07-03 22:09:59,070 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:09:59,070 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:10:24,568 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:10:24,568 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:10:24,576 - INFO - Successfully enriched data with date fields
+2024-07-03 22:10:24,576 - INFO - Successfully enriched data with date fields
+2024-07-03 22:10:24,678 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:10:24,678 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:10:47,877 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:10:47,877 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:10:47,885 - INFO - Successfully enriched data with date fields
+2024-07-03 22:10:47,885 - INFO - Successfully enriched data with date fields
+2024-07-03 22:10:48,006 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:10:48,006 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:10:48,293 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:10:48,293 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:10:48,373 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:10:48,373 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:10:48,637 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:10:48,637 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:10:48,637 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:10:48,637 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:10:48,652 - INFO - Successfully enriched data with date fields
+2024-07-03 22:10:48,652 - INFO - Successfully enriched data with date fields
+2024-07-03 22:11:22,816 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:11:22,816 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:11:22,825 - INFO - Successfully enriched data with date fields
+2024-07-03 22:11:22,825 - INFO - Successfully enriched data with date fields
+2024-07-03 22:11:22,971 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:11:22,971 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:11:23,116 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:11:23,116 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:11:23,208 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:11:23,208 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:11:23,290 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:11:23,290 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:11:23,290 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:11:23,290 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:11:23,305 - INFO - Successfully enriched data with date fields
+2024-07-03 22:11:23,305 - INFO - Successfully enriched data with date fields
+2024-07-03 22:11:54,510 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:11:54,510 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:11:54,518 - INFO - Successfully enriched data with date fields
+2024-07-03 22:11:54,518 - INFO - Successfully enriched data with date fields
+2024-07-03 22:11:54,630 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:11:54,630 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:11:54,739 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:11:54,739 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:11:54,804 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:11:54,804 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:11:54,857 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:11:54,857 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:11:54,857 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:11:54,857 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:11:54,866 - INFO - Successfully enriched data with date fields
+2024-07-03 22:11:54,866 - INFO - Successfully enriched data with date fields
+2024-07-03 22:12:42,056 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:12:42,056 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:12:42,063 - INFO - Successfully enriched data with date fields
+2024-07-03 22:12:42,063 - INFO - Successfully enriched data with date fields
+2024-07-03 22:12:42,166 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:12:42,166 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:12:42,431 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:12:42,431 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:12:42,512 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:12:42,512 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:12:42,603 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:12:42,603 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:12:42,603 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:12:42,603 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:13:42,804 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:13:42,804 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:13:42,812 - INFO - Successfully enriched data with date fields
+2024-07-03 22:13:42,812 - INFO - Successfully enriched data with date fields
+2024-07-03 22:13:42,944 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:13:42,944 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:13:43,171 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:13:43,171 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:13:43,244 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:13:43,244 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:13:43,361 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:13:43,361 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:13:43,361 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:13:43,361 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:13:43,379 - INFO - Successfully enriched data with date fields
+2024-07-03 22:13:43,379 - INFO - Successfully enriched data with date fields
+2024-07-03 22:14:16,991 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:14:16,991 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:14:16,999 - INFO - Successfully enriched data with date fields
+2024-07-03 22:14:16,999 - INFO - Successfully enriched data with date fields
+2024-07-03 22:14:17,096 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:14:17,096 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:14:17,238 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:14:17,238 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:14:17,284 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:14:17,284 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:14:17,329 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:14:17,329 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:14:17,329 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:14:17,329 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:14:17,341 - INFO - Successfully enriched data with date fields
+2024-07-03 22:14:17,341 - INFO - Successfully enriched data with date fields
+2024-07-03 22:15:33,744 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:15:33,744 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:15:33,751 - INFO - Successfully enriched data with date fields
+2024-07-03 22:15:33,751 - INFO - Successfully enriched data with date fields
+2024-07-03 22:15:33,900 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:15:33,900 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:15:33,995 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:15:33,995 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:15:34,166 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:15:34,166 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:15:34,220 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:15:34,220 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:15:34,220 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:15:34,220 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:15:34,234 - INFO - Successfully enriched data with date fields
+2024-07-03 22:15:34,234 - INFO - Successfully enriched data with date fields
+2024-07-03 22:16:41,925 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:16:41,925 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:16:41,932 - INFO - Successfully enriched data with date fields
+2024-07-03 22:16:41,932 - INFO - Successfully enriched data with date fields
+2024-07-03 22:16:42,032 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:16:42,032 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:16:42,298 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:16:42,298 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:16:42,466 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:16:42,466 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:16:42,555 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:16:42,555 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:16:42,556 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:16:42,556 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:16:42,572 - INFO - Successfully enriched data with date fields
+2024-07-03 22:16:42,572 - INFO - Successfully enriched data with date fields
+2024-07-03 22:17:05,410 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:17:05,410 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:17:05,418 - INFO - Successfully enriched data with date fields
+2024-07-03 22:17:05,418 - INFO - Successfully enriched data with date fields
+2024-07-03 22:17:05,529 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:17:05,529 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:17:05,664 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:17:05,664 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:17:05,738 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:17:05,738 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:17:05,830 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:17:05,830 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:17:05,831 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:17:05,831 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:17:05,849 - INFO - Successfully enriched data with date fields
+2024-07-03 22:17:05,849 - INFO - Successfully enriched data with date fields
+2024-07-03 22:20:49,813 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:20:49,813 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:20:49,821 - INFO - Successfully enriched data with date fields
+2024-07-03 22:20:49,821 - INFO - Successfully enriched data with date fields
+2024-07-03 22:20:49,985 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:20:49,985 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:20:50,199 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:20:50,199 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:20:50,371 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:20:50,371 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:20:50,552 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:20:50,552 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:20:50,552 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:20:50,552 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:20:50,569 - INFO - Successfully enriched data with date fields
+2024-07-03 22:20:50,569 - INFO - Successfully enriched data with date fields
+2024-07-03 22:21:21,914 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:21:21,914 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:21:21,923 - INFO - Successfully enriched data with date fields
+2024-07-03 22:21:21,923 - INFO - Successfully enriched data with date fields
+2024-07-03 22:21:22,051 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:21:22,051 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:21:22,189 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:21:22,189 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:21:22,263 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:21:22,263 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:21:22,346 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:21:22,346 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:21:22,347 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:21:22,347 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:21:22,360 - INFO - Successfully enriched data with date fields
+2024-07-03 22:21:22,360 - INFO - Successfully enriched data with date fields
+2024-07-03 22:22:24,077 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:22:24,077 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:22:24,085 - INFO - Successfully enriched data with date fields
+2024-07-03 22:22:24,085 - INFO - Successfully enriched data with date fields
+2024-07-03 22:22:24,230 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:22:24,230 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:22:24,375 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:22:24,375 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:22:24,456 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:22:24,456 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:22:24,524 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:22:24,524 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:22:24,524 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:22:24,524 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:22:24,537 - INFO - Successfully enriched data with date fields
+2024-07-03 22:22:24,537 - INFO - Successfully enriched data with date fields
+2024-07-03 22:23:06,574 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:23:06,574 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:23:06,582 - INFO - Successfully enriched data with date fields
+2024-07-03 22:23:06,582 - INFO - Successfully enriched data with date fields
+2024-07-03 22:23:06,696 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:23:06,696 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:23:06,793 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:23:06,793 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:23:06,879 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:23:06,879 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:23:06,936 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:23:06,936 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:23:06,937 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:23:06,937 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:23:06,950 - INFO - Successfully enriched data with date fields
+2024-07-03 22:23:06,950 - INFO - Successfully enriched data with date fields
+2024-07-03 22:23:31,587 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:23:31,587 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:23:31,597 - INFO - Successfully enriched data with date fields
+2024-07-03 22:23:31,597 - INFO - Successfully enriched data with date fields
+2024-07-03 22:23:31,693 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:23:31,693 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:23:31,818 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:23:31,818 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:23:31,913 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:23:31,913 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:23:31,964 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:23:31,964 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:23:31,965 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:23:31,965 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:23:31,976 - INFO - Successfully enriched data with date fields
+2024-07-03 22:23:31,976 - INFO - Successfully enriched data with date fields
+2024-07-03 22:24:16,990 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:24:16,990 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:24:17,062 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:24:17,062 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:24:17,150 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:24:17,150 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:24:17,150 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:24:17,150 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:25:21,471 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:25:21,471 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:25:21,478 - INFO - Successfully enriched data with date fields
+2024-07-03 22:25:21,478 - INFO - Successfully enriched data with date fields
+2024-07-03 22:25:21,634 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:25:21,634 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:25:21,746 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:25:21,746 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:25:21,814 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:25:21,814 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:25:21,866 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:25:21,866 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:25:21,867 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:25:21,867 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:25:21,879 - INFO - Successfully enriched data with date fields
+2024-07-03 22:25:21,879 - INFO - Successfully enriched data with date fields
+2024-07-03 22:28:47,270 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:28:47,270 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:28:47,279 - INFO - Successfully enriched data with date fields
+2024-07-03 22:28:47,279 - INFO - Successfully enriched data with date fields
+2024-07-03 22:28:47,479 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:28:47,479 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:28:47,583 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:28:47,583 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:28:47,639 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:28:47,639 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:28:47,687 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:28:47,687 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:28:47,687 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:28:47,687 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:29:12,095 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:29:12,095 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:29:12,103 - INFO - Successfully enriched data with date fields
+2024-07-03 22:29:12,103 - INFO - Successfully enriched data with date fields
+2024-07-03 22:29:12,224 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:29:12,224 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:29:12,327 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:29:12,327 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:29:12,410 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:29:12,410 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:29:12,505 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:29:12,505 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:29:12,506 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:29:12,506 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:29:12,520 - INFO - Successfully enriched data with date fields
+2024-07-03 22:29:12,520 - INFO - Successfully enriched data with date fields
+2024-07-03 22:29:40,627 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:29:40,627 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:29:40,630 - INFO - Successfully enriched data with date fields
+2024-07-03 22:29:40,630 - INFO - Successfully enriched data with date fields
+2024-07-03 22:29:40,815 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:29:40,815 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:29:40,877 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:29:40,877 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:29:40,923 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:29:40,923 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:29:40,979 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:29:40,979 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:29:40,979 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:29:40,979 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:30:19,211 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:30:19,211 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:30:19,217 - INFO - Successfully enriched data with date fields
+2024-07-03 22:30:19,217 - INFO - Successfully enriched data with date fields
+2024-07-03 22:30:19,367 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:30:19,367 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:30:19,494 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:30:19,494 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:30:19,608 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:30:19,608 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:30:19,750 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:30:19,750 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:30:19,750 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:30:19,750 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:31:12,227 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:31:12,227 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:31:12,234 - INFO - Successfully enriched data with date fields
+2024-07-03 22:31:12,234 - INFO - Successfully enriched data with date fields
+2024-07-03 22:31:12,413 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:31:12,413 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:31:12,496 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:31:12,496 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:31:12,623 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:31:12,623 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:31:12,712 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:31:12,712 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:31:12,712 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:31:12,712 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:31:12,723 - INFO - Successfully enriched data with date fields
+2024-07-03 22:31:12,723 - INFO - Successfully enriched data with date fields
+2024-07-03 22:31:41,300 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:31:41,300 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:31:41,308 - INFO - Successfully enriched data with date fields
+2024-07-03 22:31:41,308 - INFO - Successfully enriched data with date fields
+2024-07-03 22:31:41,432 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:31:41,432 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:31:41,573 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:31:41,573 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:31:41,674 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:31:41,674 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:31:41,736 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:31:41,736 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:31:41,736 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:31:41,736 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:31:41,747 - INFO - Successfully enriched data with date fields
+2024-07-03 22:31:41,747 - INFO - Successfully enriched data with date fields
+2024-07-03 22:32:15,415 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:32:15,415 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:32:15,421 - INFO - Successfully enriched data with date fields
+2024-07-03 22:32:15,421 - INFO - Successfully enriched data with date fields
+2024-07-03 22:32:15,584 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:32:15,584 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:32:15,977 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:32:15,977 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:32:16,047 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:32:16,047 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:32:16,120 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:32:16,120 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:32:16,121 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:32:16,121 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:32:16,128 - INFO - Successfully enriched data with date fields
+2024-07-03 22:32:16,128 - INFO - Successfully enriched data with date fields
+2024-07-03 22:32:40,229 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:32:40,229 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:32:40,240 - INFO - Successfully enriched data with date fields
+2024-07-03 22:32:40,240 - INFO - Successfully enriched data with date fields
+2024-07-03 22:32:40,352 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:32:40,352 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:32:40,486 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:32:40,486 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:32:40,575 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:32:40,575 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:32:40,638 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:32:40,638 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:32:40,639 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:32:40,639 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:32:40,651 - INFO - Successfully enriched data with date fields
+2024-07-03 22:32:40,651 - INFO - Successfully enriched data with date fields
+2024-07-03 22:34:00,911 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:34:00,911 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:34:00,917 - INFO - Successfully enriched data with date fields
+2024-07-03 22:34:00,917 - INFO - Successfully enriched data with date fields
+2024-07-03 22:34:01,021 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:34:01,021 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:34:01,249 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:34:01,249 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:34:01,332 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:34:01,332 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:34:01,415 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:34:01,415 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:34:01,416 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:34:01,416 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:34:01,430 - INFO - Successfully enriched data with date fields
+2024-07-03 22:34:01,430 - INFO - Successfully enriched data with date fields
+2024-07-03 22:34:32,690 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:34:32,690 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:34:32,746 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:34:32,746 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:34:32,838 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:34:32,838 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:34:32,838 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:34:32,838 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:36:10,583 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:36:10,583 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:36:10,590 - INFO - Successfully enriched data with date fields
+2024-07-03 22:36:10,590 - INFO - Successfully enriched data with date fields
+2024-07-03 22:36:10,740 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:36:10,740 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:36:10,950 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:36:10,950 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:36:11,108 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:36:11,108 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:36:11,376 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:36:11,376 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:36:11,377 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:36:11,377 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:37:22,814 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:37:22,814 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:37:22,821 - INFO - Successfully enriched data with date fields
+2024-07-03 22:37:22,821 - INFO - Successfully enriched data with date fields
+2024-07-03 22:37:22,927 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:37:22,927 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:37:23,006 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:37:23,006 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:37:23,070 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:37:23,070 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:37:23,142 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:37:23,142 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:37:23,143 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:37:23,143 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:37:23,145 - INFO - Successfully enriched data with date fields
+2024-07-03 22:37:23,145 - INFO - Successfully enriched data with date fields
+2024-07-03 22:37:43,490 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:37:43,490 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:37:43,499 - INFO - Successfully enriched data with date fields
+2024-07-03 22:37:43,499 - INFO - Successfully enriched data with date fields
+2024-07-03 22:37:43,612 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:37:43,612 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:37:43,735 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:37:43,735 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:37:43,841 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:37:43,841 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:37:43,928 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:37:43,928 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:37:43,929 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:37:43,929 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:37:43,931 - INFO - Successfully enriched data with date fields
+2024-07-03 22:37:43,931 - INFO - Successfully enriched data with date fields
+2024-07-03 22:38:18,168 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:38:18,168 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:38:18,176 - INFO - Successfully enriched data with date fields
+2024-07-03 22:38:18,176 - INFO - Successfully enriched data with date fields
+2024-07-03 22:38:18,339 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:38:18,339 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:38:18,421 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:38:18,421 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:38:18,506 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:38:18,506 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:38:18,579 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:38:18,579 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:38:18,579 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:38:18,579 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:38:18,581 - INFO - Successfully enriched data with date fields
+2024-07-03 22:38:18,581 - INFO - Successfully enriched data with date fields
+2024-07-03 22:40:19,638 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:40:19,638 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:40:19,645 - INFO - Successfully enriched data with date fields
+2024-07-03 22:40:19,645 - INFO - Successfully enriched data with date fields
+2024-07-03 22:40:19,766 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:40:19,766 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:40:19,892 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:40:19,892 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:40:19,944 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:40:19,944 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:40:20,051 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:40:20,051 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:40:20,051 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:40:20,051 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:40:20,055 - INFO - Successfully enriched data with date fields
+2024-07-03 22:40:20,055 - INFO - Successfully enriched data with date fields
+2024-07-03 22:40:39,636 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:40:39,636 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:40:39,648 - INFO - Successfully enriched data with date fields
+2024-07-03 22:40:39,648 - INFO - Successfully enriched data with date fields
+2024-07-03 22:40:39,828 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:40:39,828 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:40:39,900 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:40:39,900 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:40:39,999 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:40:39,999 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:40:40,094 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:40:40,094 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:40:40,094 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:40:40,094 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:40:40,097 - INFO - Successfully enriched data with date fields
+2024-07-03 22:40:40,097 - INFO - Successfully enriched data with date fields
+2024-07-03 22:41:13,849 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:41:13,849 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:41:13,858 - INFO - Successfully enriched data with date fields
+2024-07-03 22:41:13,858 - INFO - Successfully enriched data with date fields
+2024-07-03 22:41:14,035 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:41:14,035 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:41:14,307 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:41:14,307 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:41:14,519 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:41:14,519 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:41:14,716 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:41:14,716 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:41:14,716 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:41:14,716 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:41:14,720 - INFO - Successfully enriched data with date fields
+2024-07-03 22:41:14,720 - INFO - Successfully enriched data with date fields
+2024-07-03 22:41:53,686 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:41:53,686 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:41:53,695 - INFO - Successfully enriched data with date fields
+2024-07-03 22:41:53,695 - INFO - Successfully enriched data with date fields
+2024-07-03 22:41:53,830 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:41:53,830 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:41:53,923 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:41:53,923 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:41:54,029 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:41:54,029 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:41:54,096 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:41:54,096 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:41:54,096 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:41:54,096 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:41:54,099 - INFO - Successfully enriched data with date fields
+2024-07-03 22:41:54,099 - INFO - Successfully enriched data with date fields
+2024-07-03 22:43:27,496 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:43:27,496 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:43:27,502 - INFO - Successfully enriched data with date fields
+2024-07-03 22:43:27,502 - INFO - Successfully enriched data with date fields
+2024-07-03 22:43:27,605 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:43:27,605 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:43:27,815 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:43:27,815 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:43:27,889 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:43:27,889 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:43:27,980 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:43:27,980 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:43:27,980 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:43:27,980 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:43:28,008 - INFO - Successfully enriched data with date fields
+2024-07-03 22:43:28,008 - INFO - Successfully enriched data with date fields
+2024-07-03 22:44:28,479 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:44:28,479 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:44:28,486 - INFO - Successfully enriched data with date fields
+2024-07-03 22:44:28,486 - INFO - Successfully enriched data with date fields
+2024-07-03 22:44:28,602 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:44:28,602 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:44:28,722 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:44:28,722 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:44:28,817 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:44:28,817 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:44:28,899 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:44:28,899 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:44:28,900 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:44:28,900 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:44:28,924 - INFO - Successfully enriched data with date fields
+2024-07-03 22:44:28,924 - INFO - Successfully enriched data with date fields
+2024-07-03 22:45:37,236 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:45:37,236 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:45:37,243 - INFO - Successfully enriched data with date fields
+2024-07-03 22:45:37,243 - INFO - Successfully enriched data with date fields
+2024-07-03 22:45:37,345 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:45:37,345 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:45:37,406 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:45:37,406 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:45:37,479 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:45:37,479 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:45:37,552 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:45:37,552 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:45:37,553 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:45:37,553 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:45:37,574 - INFO - Successfully enriched data with date fields
+2024-07-03 22:45:37,574 - INFO - Successfully enriched data with date fields
+2024-07-03 22:46:00,764 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:46:00,764 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:46:00,772 - INFO - Successfully enriched data with date fields
+2024-07-03 22:46:00,772 - INFO - Successfully enriched data with date fields
+2024-07-03 22:46:00,886 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:46:00,886 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:46:00,992 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:46:00,992 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:46:01,062 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:46:01,062 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:46:01,149 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:46:01,149 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:46:01,150 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:46:01,150 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:46:01,173 - INFO - Successfully enriched data with date fields
+2024-07-03 22:46:01,173 - INFO - Successfully enriched data with date fields
+2024-07-03 22:46:27,610 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:46:27,610 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:46:27,617 - INFO - Successfully enriched data with date fields
+2024-07-03 22:46:27,617 - INFO - Successfully enriched data with date fields
+2024-07-03 22:46:27,736 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:46:27,736 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:46:27,812 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:46:27,812 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:46:27,875 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:46:27,875 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:46:27,921 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:46:27,921 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:46:27,921 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:46:27,921 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:46:27,936 - INFO - Successfully enriched data with date fields
+2024-07-03 22:46:27,936 - INFO - Successfully enriched data with date fields
+2024-07-03 22:47:02,205 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:47:02,205 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:47:02,214 - INFO - Successfully enriched data with date fields
+2024-07-03 22:47:02,214 - INFO - Successfully enriched data with date fields
+2024-07-03 22:47:02,405 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:47:02,405 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:47:02,593 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:47:02,593 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:47:02,643 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:47:02,643 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:47:02,696 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:47:02,696 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:47:02,696 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:47:02,696 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:47:02,718 - INFO - Successfully enriched data with date fields
+2024-07-03 22:47:02,718 - INFO - Successfully enriched data with date fields
+2024-07-03 22:47:47,272 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:47:47,272 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:47:47,279 - INFO - Successfully enriched data with date fields
+2024-07-03 22:47:47,279 - INFO - Successfully enriched data with date fields
+2024-07-03 22:47:47,427 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:47:47,427 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:47:47,632 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:47:47,632 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:47:47,720 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:47:47,720 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:47:47,824 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:47:47,824 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:47:47,824 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:47:47,824 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:47:47,849 - INFO - Successfully enriched data with date fields
+2024-07-03 22:47:47,849 - INFO - Successfully enriched data with date fields
+2024-07-03 22:49:46,086 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:49:46,086 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:49:46,093 - INFO - Successfully enriched data with date fields
+2024-07-03 22:49:46,093 - INFO - Successfully enriched data with date fields
+2024-07-03 22:49:46,285 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:49:46,285 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:49:46,414 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:49:46,414 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:49:46,531 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:49:46,531 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:49:46,604 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:49:46,604 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:49:46,604 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:49:46,604 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:49:46,630 - INFO - Successfully enriched data with date fields
+2024-07-03 22:49:46,630 - INFO - Successfully enriched data with date fields
+2024-07-03 22:50:00,696 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:50:00,696 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:50:00,702 - INFO - Successfully enriched data with date fields
+2024-07-03 22:50:00,702 - INFO - Successfully enriched data with date fields
+2024-07-03 22:50:00,867 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:50:00,867 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:50:00,931 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:50:00,931 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:50:00,998 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:50:00,998 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:50:01,051 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:50:01,051 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:50:01,052 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:50:01,052 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:51:13,211 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:51:13,211 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:51:13,216 - INFO - Successfully enriched data with date fields
+2024-07-03 22:51:13,216 - INFO - Successfully enriched data with date fields
+2024-07-03 22:51:13,383 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:51:13,383 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 22:51:13,627 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:51:13,627 - INFO - Successfully extracted CPI data fields
+2024-07-03 22:51:13,853 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:51:13,853 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 22:51:14,043 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:51:14,043 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 22:51:14,044 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:51:14,044 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 22:51:14,060 - INFO - Successfully enriched data with date fields
+2024-07-03 22:51:14,060 - INFO - Successfully enriched data with date fields
+2024-07-03 22:52:01,781 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:52:01,781 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:53:27,168 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 22:53:27,168 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:06:44,326 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:06:44,326 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:07:06,270 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:07:06,270 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:09:58,833 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:09:58,833 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:10:54,037 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:10:54,037 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:14:48,107 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:14:48,107 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:15:15,468 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:15:15,468 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:15:45,794 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:15:45,794 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:16:08,981 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:16:08,981 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:16:08,986 - INFO - Successfully enriched data with date fields
+2024-07-03 23:16:08,986 - INFO - Successfully enriched data with date fields
+2024-07-03 23:17:29,976 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:17:29,976 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:17:29,981 - INFO - Successfully enriched data with date fields
+2024-07-03 23:17:29,981 - INFO - Successfully enriched data with date fields
+2024-07-03 23:17:30,087 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:17:30,087 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:17:30,501 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:17:30,501 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:17:30,591 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:17:30,591 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:17:30,673 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:17:30,673 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:17:30,673 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:17:30,673 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:17:30,695 - INFO - Successfully enriched data with date fields
+2024-07-03 23:17:30,695 - INFO - Successfully enriched data with date fields
+2024-07-03 23:23:18,215 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:23:18,215 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:23:18,222 - INFO - Successfully enriched data with date fields
+2024-07-03 23:23:18,222 - INFO - Successfully enriched data with date fields
+2024-07-03 23:23:18,415 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:23:18,415 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:23:18,754 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:23:18,754 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:23:19,023 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:23:19,023 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:23:19,237 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:23:19,237 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:23:19,238 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:23:19,238 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:23:19,268 - INFO - Successfully enriched data with date fields
+2024-07-03 23:23:19,268 - INFO - Successfully enriched data with date fields
+2024-07-03 23:23:50,263 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:23:50,263 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:23:50,271 - INFO - Successfully enriched data with date fields
+2024-07-03 23:23:50,271 - INFO - Successfully enriched data with date fields
+2024-07-03 23:23:50,382 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:23:50,382 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:23:50,500 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:23:50,500 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:23:50,549 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:23:50,549 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:23:50,629 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:23:50,629 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:23:50,630 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:23:50,630 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:23:50,674 - INFO - Successfully enriched data with date fields
+2024-07-03 23:23:50,674 - INFO - Successfully enriched data with date fields
+2024-07-03 23:30:31,283 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:30:31,283 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:30:31,290 - INFO - Successfully enriched data with date fields
+2024-07-03 23:30:31,290 - INFO - Successfully enriched data with date fields
+2024-07-03 23:30:31,392 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:30:31,392 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:30:31,858 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:30:31,858 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:30:32,077 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:30:32,077 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:30:32,181 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:30:32,181 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:30:32,181 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:30:32,181 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:32:30,570 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:32:30,570 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:32:30,629 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:32:30,629 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:32:30,700 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:32:30,700 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:32:30,701 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:32:30,701 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:33:22,927 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:33:22,927 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:33:22,975 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:33:22,975 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:33:23,020 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:33:23,020 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:33:23,020 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:33:23,020 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:33:38,420 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:33:38,420 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:33:38,467 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:33:38,467 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:33:38,525 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:33:38,525 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:33:38,525 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:33:38,525 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:33:39,069 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:33:39,069 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:33:39,075 - INFO - Successfully enriched data with date fields
+2024-07-03 23:33:39,075 - INFO - Successfully enriched data with date fields
+2024-07-03 23:33:39,207 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:33:39,207 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:33:39,251 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:33:39,251 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:33:39,320 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:33:39,320 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:33:39,379 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:33:39,379 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:33:39,379 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:33:39,379 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:34:13,041 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:34:13,041 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:34:13,145 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:34:13,145 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:34:13,232 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:34:13,232 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:34:13,233 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:34:13,233 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:34:13,789 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:34:13,789 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:34:13,794 - INFO - Successfully enriched data with date fields
+2024-07-03 23:34:13,794 - INFO - Successfully enriched data with date fields
+2024-07-03 23:34:13,962 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:34:13,962 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:34:14,055 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:34:14,055 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:34:14,144 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:34:14,144 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:34:14,219 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:34:14,219 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:34:14,219 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:34:14,219 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:34:25,195 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:34:25,195 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:34:25,240 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:34:25,240 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:34:25,312 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:34:25,312 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:34:25,313 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:34:25,313 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:36:41,839 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:36:41,839 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:36:42,074 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:36:42,074 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:36:42,348 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:36:42,348 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:36:42,348 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:36:42,348 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:36:42,882 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:36:42,882 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:36:42,887 - INFO - Successfully enriched data with date fields
+2024-07-03 23:36:42,887 - INFO - Successfully enriched data with date fields
+2024-07-03 23:36:43,055 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:36:43,055 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:36:43,101 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:36:43,101 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:36:43,187 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:36:43,187 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:36:43,253 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:36:43,253 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:36:43,254 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:36:43,254 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:36:43,423 - INFO - Successfully enriched data with date fields
+2024-07-03 23:36:43,423 - INFO - Successfully enriched data with date fields
+2024-07-03 23:37:03,022 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:37:03,022 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:37:03,071 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:37:03,071 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:37:03,117 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:37:03,117 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:37:03,118 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:37:03,118 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:37:03,668 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:37:03,668 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:37:03,674 - INFO - Successfully enriched data with date fields
+2024-07-03 23:37:03,674 - INFO - Successfully enriched data with date fields
+2024-07-03 23:37:03,825 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:37:03,825 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:37:03,871 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:37:03,871 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:37:03,928 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:37:03,928 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:37:03,977 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:37:03,977 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:37:03,977 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:37:03,977 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:37:04,027 - INFO - Successfully enriched data with date fields
+2024-07-03 23:37:04,027 - INFO - Successfully enriched data with date fields
+2024-07-03 23:37:40,457 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:37:40,457 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:37:40,535 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:37:40,535 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:37:40,614 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:37:40,614 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:37:40,614 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:37:40,614 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:37:41,110 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:37:41,110 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:37:41,115 - INFO - Successfully enriched data with date fields
+2024-07-03 23:37:41,115 - INFO - Successfully enriched data with date fields
+2024-07-03 23:37:41,245 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:37:41,245 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:37:41,323 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:37:41,323 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:37:41,409 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:37:41,409 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:37:41,490 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:37:41,490 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:37:41,491 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:37:41,491 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:37:41,545 - INFO - Successfully enriched data with date fields
+2024-07-03 23:37:41,545 - INFO - Successfully enriched data with date fields
+2024-07-03 23:37:58,914 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:37:58,914 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:37:58,968 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:37:58,968 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:37:59,021 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:37:59,021 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:37:59,021 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:37:59,021 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:37:59,539 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:37:59,539 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:37:59,547 - INFO - Successfully enriched data with date fields
+2024-07-03 23:37:59,547 - INFO - Successfully enriched data with date fields
+2024-07-03 23:37:59,660 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:37:59,660 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:37:59,731 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:37:59,731 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:37:59,807 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:37:59,807 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:37:59,856 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:37:59,856 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:37:59,856 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:37:59,856 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:37:59,909 - INFO - Successfully enriched data with date fields
+2024-07-03 23:37:59,909 - INFO - Successfully enriched data with date fields
+2024-07-03 23:38:34,758 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:38:34,758 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:38:34,828 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:38:34,828 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:38:34,899 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:38:34,899 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:38:34,899 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:38:34,899 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:38:35,397 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:38:35,397 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:38:35,404 - INFO - Successfully enriched data with date fields
+2024-07-03 23:38:35,404 - INFO - Successfully enriched data with date fields
+2024-07-03 23:38:35,600 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:38:35,600 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:39:02,147 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:39:02,147 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:39:02,213 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:39:02,213 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:39:02,276 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:39:02,276 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:39:02,277 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:39:02,277 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:39:02,818 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:39:02,818 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:39:02,831 - INFO - Successfully enriched data with date fields
+2024-07-03 23:39:02,831 - INFO - Successfully enriched data with date fields
+2024-07-03 23:39:02,953 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:39:02,953 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:39:27,623 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:39:27,623 - INFO - Successfully extracted CPI data fields
+2024-07-03 23:39:27,681 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:39:27,681 - INFO - Successfully extracted the Fed fund rates data fields
+2024-07-03 23:39:27,755 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:39:27,755 - INFO - Successfully extracted the Non-farm Payrolls data fields
+2024-07-03 23:39:27,756 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:39:27,756 - INFO - Successfully generated the macro-economical dataframes
+2024-07-03 23:39:28,353 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:39:28,353 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-03 23:39:28,361 - INFO - Successfully enriched data with date fields
+2024-07-03 23:39:28,361 - INFO - Successfully enriched data with date fields
+2024-07-03 23:39:28,476 - INFO - Successfully enriched data with technical indicator fields
+2024-07-03 23:39:28,476 - INFO - Successfully enriched data with technical indicator fields
