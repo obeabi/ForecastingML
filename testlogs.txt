@@ -1285,3 +1285,1929 @@
 2024-07-03 23:51:51,041 - INFO - Successfully enriched data with date fields
 2024-07-03 23:51:51,201 - INFO - Successfully enriched data with technical indicator fields
 2024-07-03 23:51:51,201 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 10:56:59,775 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 10:56:59,775 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 10:56:59,775 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 10:57:28,181 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 10:57:28,181 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 10:57:28,181 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 10:57:28,187 - INFO - Successfully enriched data with date fields
+2024-07-06 10:57:28,187 - INFO - Successfully enriched data with date fields
+2024-07-06 10:57:28,187 - INFO - Successfully enriched data with date fields
+2024-07-06 10:57:28,366 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 10:57:28,366 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 10:57:28,366 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 10:58:34,261 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 10:58:34,261 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 10:58:34,261 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:12:49,055 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:12:49,055 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:12:49,055 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:13:17,669 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:13:17,669 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:13:17,669 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:13:17,733 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:13:17,733 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:13:17,733 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:13:19,429 - INFO - Successfully rendered distribution plots of price-volume data
+2024-07-06 11:13:19,429 - INFO - Successfully rendered distribution plots of price-volume data
+2024-07-06 11:13:19,429 - INFO - Successfully rendered distribution plots of price-volume data
+2024-07-06 11:16:37,379 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:16:37,379 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:16:37,379 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:16:37,437 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:16:37,437 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:16:37,437 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:16:39,476 - INFO - Successfully rendered distribution plots of price-volume data
+2024-07-06 11:16:39,476 - INFO - Successfully rendered distribution plots of price-volume data
+2024-07-06 11:16:39,476 - INFO - Successfully rendered distribution plots of price-volume data
+2024-07-06 11:18:14,291 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:18:14,291 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:18:14,291 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:18:14,369 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:18:14,369 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:18:14,369 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:21:52,189 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:21:52,189 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:21:52,189 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:21:52,252 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:21:52,252 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:21:52,252 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:22:56,418 - INFO - Successfully rendered distribution plots of price-volume data
+2024-07-06 11:22:56,418 - INFO - Successfully rendered distribution plots of price-volume data
+2024-07-06 11:22:56,418 - INFO - Successfully rendered distribution plots of price-volume data
+2024-07-06 11:32:54,846 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:32:54,846 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:32:54,846 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:32:54,908 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:32:54,908 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:32:54,908 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:32:54,917 - INFO - Successfully enriched data with date fields
+2024-07-06 11:32:54,917 - INFO - Successfully enriched data with date fields
+2024-07-06 11:32:54,917 - INFO - Successfully enriched data with date fields
+2024-07-06 11:35:40,868 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:35:40,868 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:35:40,868 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:35:40,946 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:35:40,946 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:35:40,946 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:36:03,661 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:36:03,661 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:36:03,661 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:36:03,723 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:36:03,723 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:36:03,723 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:36:20,277 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:36:20,277 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:36:20,277 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:36:20,340 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:36:20,340 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:36:20,340 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:36:57,380 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:36:57,380 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:36:57,380 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:36:57,443 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:36:57,443 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:36:57,443 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:42:20,826 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:42:20,826 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:42:20,826 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:42:20,902 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:42:20,902 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:42:20,902 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:51:26,765 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:51:26,765 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:51:26,765 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:51:26,842 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:51:26,842 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:51:26,842 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:51:26,844 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 11:51:26,844 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 11:51:26,844 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 11:51:26,922 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:51:26,922 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:51:26,922 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:51:26,933 - INFO - Successfully enriched data with date fields
+2024-07-06 11:51:26,933 - INFO - Successfully enriched data with date fields
+2024-07-06 11:51:26,933 - INFO - Successfully enriched data with date fields
+2024-07-06 11:52:25,113 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:52:25,113 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:52:25,113 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:52:25,191 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:52:25,191 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:52:25,191 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:52:25,193 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 11:52:25,193 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 11:52:25,193 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 11:52:25,269 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:52:25,269 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:52:25,269 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:52:25,279 - INFO - Successfully enriched data with date fields
+2024-07-06 11:52:25,279 - INFO - Successfully enriched data with date fields
+2024-07-06 11:52:25,279 - INFO - Successfully enriched data with date fields
+2024-07-06 11:53:02,974 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:53:02,974 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:53:02,974 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:53:03,053 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:53:03,053 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:53:03,053 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:53:03,057 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 11:53:03,057 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 11:53:03,057 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 11:53:03,130 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:53:03,130 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:53:03,130 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:53:03,139 - INFO - Successfully enriched data with date fields
+2024-07-06 11:53:03,139 - INFO - Successfully enriched data with date fields
+2024-07-06 11:53:03,139 - INFO - Successfully enriched data with date fields
+2024-07-06 11:53:11,103 - INFO - Successfully rendered distribution plots of target variable
+2024-07-06 11:53:11,103 - INFO - Successfully rendered distribution plots of target variable
+2024-07-06 11:53:11,103 - INFO - Successfully rendered distribution plots of target variable
+2024-07-06 11:59:21,792 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:59:21,792 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:59:21,792 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:59:21,853 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:59:21,853 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:59:21,853 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:59:21,855 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 11:59:21,855 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 11:59:21,855 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 11:59:21,932 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:59:21,932 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:59:21,932 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 11:59:21,945 - INFO - Successfully enriched data with date fields
+2024-07-06 11:59:21,945 - INFO - Successfully enriched data with date fields
+2024-07-06 11:59:21,945 - INFO - Successfully enriched data with date fields
+2024-07-06 12:02:07,366 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:02:07,366 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:02:07,366 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:02:07,444 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:02:07,444 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:02:07,444 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:02:07,446 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:02:07,446 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:02:07,446 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:02:07,537 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:02:07,537 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:02:07,537 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:02:07,548 - INFO - Successfully enriched data with date fields
+2024-07-06 12:02:07,548 - INFO - Successfully enriched data with date fields
+2024-07-06 12:02:07,548 - INFO - Successfully enriched data with date fields
+2024-07-06 12:02:52,961 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:02:52,961 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:02:52,961 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:02:53,054 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:02:53,054 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:02:53,054 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:02:53,056 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:02:53,056 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:02:53,056 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:02:53,132 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:02:53,132 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:02:53,132 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:02:53,143 - INFO - Successfully enriched data with date fields
+2024-07-06 12:02:53,143 - INFO - Successfully enriched data with date fields
+2024-07-06 12:02:53,143 - INFO - Successfully enriched data with date fields
+2024-07-06 12:09:44,486 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:09:44,486 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:09:44,486 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:09:44,549 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:09:44,549 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:09:44,549 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:09:44,551 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:09:44,551 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:09:44,551 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:09:44,612 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:09:44,612 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:09:44,612 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:09:44,620 - INFO - Successfully enriched data with date fields
+2024-07-06 12:09:44,620 - INFO - Successfully enriched data with date fields
+2024-07-06 12:09:44,620 - INFO - Successfully enriched data with date fields
+2024-07-06 12:13:34,904 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:13:34,904 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:13:34,904 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:13:34,967 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:13:34,967 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:13:34,967 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:13:34,968 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:13:34,968 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:13:34,968 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:13:35,044 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:13:35,044 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:13:35,044 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:13:35,053 - INFO - Successfully enriched data with date fields
+2024-07-06 12:13:35,053 - INFO - Successfully enriched data with date fields
+2024-07-06 12:13:35,053 - INFO - Successfully enriched data with date fields
+2024-07-06 12:17:32,156 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:17:32,156 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:17:32,156 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:17:32,234 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:17:32,234 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:17:32,234 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:17:32,236 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:17:32,236 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:17:32,236 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:17:32,311 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:17:32,311 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:17:32,311 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:17:32,321 - INFO - Successfully enriched data with date fields
+2024-07-06 12:17:32,321 - INFO - Successfully enriched data with date fields
+2024-07-06 12:17:32,321 - INFO - Successfully enriched data with date fields
+2024-07-06 12:22:19,609 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:22:19,609 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:22:19,609 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:22:19,618 - INFO - Successfully enriched data with date fields
+2024-07-06 12:22:19,618 - INFO - Successfully enriched data with date fields
+2024-07-06 12:22:19,618 - INFO - Successfully enriched data with date fields
+2024-07-06 12:22:19,686 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:22:19,686 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:22:19,686 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:22:19,695 - INFO - Successfully enriched data with date fields
+2024-07-06 12:22:19,695 - INFO - Successfully enriched data with date fields
+2024-07-06 12:22:19,695 - INFO - Successfully enriched data with date fields
+2024-07-06 12:22:19,701 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 12:22:19,701 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 12:22:19,701 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 12:26:59,227 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:26:59,227 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:26:59,227 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:26:59,238 - INFO - Successfully enriched data with date fields
+2024-07-06 12:26:59,238 - INFO - Successfully enriched data with date fields
+2024-07-06 12:26:59,238 - INFO - Successfully enriched data with date fields
+2024-07-06 12:26:59,478 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:26:59,478 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:26:59,478 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:26:59,539 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:26:59,539 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:26:59,539 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:26:59,542 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:26:59,542 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:26:59,542 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:26:59,633 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:26:59,633 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:26:59,633 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:26:59,642 - INFO - Successfully enriched data with date fields
+2024-07-06 12:26:59,642 - INFO - Successfully enriched data with date fields
+2024-07-06 12:26:59,642 - INFO - Successfully enriched data with date fields
+2024-07-06 12:26:59,712 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:26:59,712 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:26:59,712 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:28:09,332 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:28:09,332 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:28:09,332 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:28:09,343 - INFO - Successfully enriched data with date fields
+2024-07-06 12:28:09,343 - INFO - Successfully enriched data with date fields
+2024-07-06 12:28:09,343 - INFO - Successfully enriched data with date fields
+2024-07-06 12:28:09,521 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:28:09,521 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:28:09,521 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:28:09,597 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:28:09,597 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:28:09,597 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:28:09,598 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:28:09,598 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:28:09,598 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:28:09,689 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:28:09,689 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:28:09,689 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:28:09,699 - INFO - Successfully enriched data with date fields
+2024-07-06 12:28:09,699 - INFO - Successfully enriched data with date fields
+2024-07-06 12:28:09,699 - INFO - Successfully enriched data with date fields
+2024-07-06 12:28:09,786 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:28:09,786 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:28:09,786 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:28:38,804 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:28:38,804 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:28:38,804 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:28:38,817 - INFO - Successfully enriched data with date fields
+2024-07-06 12:28:38,817 - INFO - Successfully enriched data with date fields
+2024-07-06 12:28:38,817 - INFO - Successfully enriched data with date fields
+2024-07-06 12:28:38,950 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:28:38,950 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:28:38,950 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:28:39,011 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:28:39,011 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:28:39,011 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:28:39,014 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:28:39,014 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:28:39,014 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:28:39,072 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:28:39,072 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:28:39,072 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:28:39,081 - INFO - Successfully enriched data with date fields
+2024-07-06 12:28:39,081 - INFO - Successfully enriched data with date fields
+2024-07-06 12:28:39,081 - INFO - Successfully enriched data with date fields
+2024-07-06 12:28:39,151 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:28:39,151 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:28:39,151 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:29:13,745 - INFO - Successfully rendered correlation plot for stock dataset
+2024-07-06 12:29:13,745 - INFO - Successfully rendered correlation plot for stock dataset
+2024-07-06 12:29:13,745 - INFO - Successfully rendered correlation plot for stock dataset
+2024-07-06 12:29:56,374 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:29:56,374 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:29:56,374 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:29:56,385 - INFO - Successfully enriched data with date fields
+2024-07-06 12:29:56,385 - INFO - Successfully enriched data with date fields
+2024-07-06 12:29:56,385 - INFO - Successfully enriched data with date fields
+2024-07-06 12:29:56,500 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:29:56,500 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:29:56,500 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:29:56,560 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:29:56,560 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:29:56,560 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:29:56,562 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:29:56,562 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:29:56,562 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:29:56,637 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:29:56,637 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:29:56,637 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:29:56,647 - INFO - Successfully enriched data with date fields
+2024-07-06 12:29:56,647 - INFO - Successfully enriched data with date fields
+2024-07-06 12:29:56,647 - INFO - Successfully enriched data with date fields
+2024-07-06 12:29:56,718 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:29:56,718 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:29:56,718 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:29:56,732 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 12:29:56,732 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 12:29:56,732 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 12:31:43,712 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:31:43,712 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:31:43,712 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:31:43,722 - INFO - Successfully enriched data with date fields
+2024-07-06 12:31:43,722 - INFO - Successfully enriched data with date fields
+2024-07-06 12:31:43,722 - INFO - Successfully enriched data with date fields
+2024-07-06 12:31:43,902 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:31:43,902 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:31:43,902 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:31:43,977 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:31:43,977 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:31:43,977 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:31:43,979 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:31:43,979 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:31:43,979 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:31:44,039 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:31:44,039 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:31:44,039 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:31:44,048 - INFO - Successfully enriched data with date fields
+2024-07-06 12:31:44,048 - INFO - Successfully enriched data with date fields
+2024-07-06 12:31:44,048 - INFO - Successfully enriched data with date fields
+2024-07-06 12:31:44,119 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:31:44,119 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:31:44,119 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:31:44,132 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 12:31:44,132 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 12:31:44,132 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 12:32:00,770 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:32:00,770 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:32:00,770 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:32:00,780 - INFO - Successfully enriched data with date fields
+2024-07-06 12:32:00,780 - INFO - Successfully enriched data with date fields
+2024-07-06 12:32:00,780 - INFO - Successfully enriched data with date fields
+2024-07-06 12:32:00,930 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:32:00,930 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:32:00,930 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:32:01,005 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:32:01,005 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:32:01,005 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:32:01,007 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:32:01,007 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:32:01,007 - INFO - Successfully performed end of quarter stock analysis
+2024-07-06 12:32:01,083 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:32:01,083 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:32:01,083 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:32:01,091 - INFO - Successfully enriched data with date fields
+2024-07-06 12:32:01,091 - INFO - Successfully enriched data with date fields
+2024-07-06 12:32:01,091 - INFO - Successfully enriched data with date fields
+2024-07-06 12:32:01,162 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:32:01,162 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:32:01,162 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:32:01,175 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 12:32:01,175 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 12:32:01,175 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 12:35:05,720 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:35:05,720 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:35:05,720 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:35:05,731 - INFO - Successfully enriched data with date fields
+2024-07-06 12:35:05,731 - INFO - Successfully enriched data with date fields
+2024-07-06 12:35:05,731 - INFO - Successfully enriched data with date fields
+2024-07-06 12:35:05,956 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:35:05,956 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:35:05,956 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:35:06,032 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:35:06,032 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:35:06,032 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 12:35:06,044 - INFO - Successfully enriched data with date fields
+2024-07-06 12:35:06,044 - INFO - Successfully enriched data with date fields
+2024-07-06 12:35:06,044 - INFO - Successfully enriched data with date fields
+2024-07-06 12:35:06,144 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:35:06,144 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:35:06,144 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 12:35:06,163 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 12:35:06,163 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 12:35:06,163 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 13:57:24,045 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 13:57:24,045 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 13:57:24,045 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 13:57:24,057 - INFO - Successfully enriched data with date fields
+2024-07-06 13:57:24,057 - INFO - Successfully enriched data with date fields
+2024-07-06 13:57:24,057 - INFO - Successfully enriched data with date fields
+2024-07-06 13:57:24,236 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 13:57:24,236 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 13:57:24,236 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 13:57:24,309 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 13:57:24,309 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 13:57:24,309 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 13:57:24,320 - INFO - Successfully enriched data with date fields
+2024-07-06 13:57:24,320 - INFO - Successfully enriched data with date fields
+2024-07-06 13:57:24,320 - INFO - Successfully enriched data with date fields
+2024-07-06 13:57:24,389 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 13:57:24,389 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 13:57:24,389 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 13:57:24,401 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 13:57:24,401 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 13:57:24,401 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 13:58:11,324 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 13:58:11,324 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 13:58:11,324 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 13:58:11,336 - INFO - Successfully enriched data with date fields
+2024-07-06 13:58:11,336 - INFO - Successfully enriched data with date fields
+2024-07-06 13:58:11,336 - INFO - Successfully enriched data with date fields
+2024-07-06 13:58:11,483 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 13:58:11,483 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 13:58:11,483 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 13:58:11,556 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 13:58:11,556 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 13:58:11,556 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 13:58:11,570 - INFO - Successfully enriched data with date fields
+2024-07-06 13:58:11,570 - INFO - Successfully enriched data with date fields
+2024-07-06 13:58:11,570 - INFO - Successfully enriched data with date fields
+2024-07-06 13:58:11,652 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 13:58:11,652 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 13:58:11,652 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 13:58:11,665 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 13:58:11,665 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 13:58:11,665 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 13:58:11,667 - INFO - Target column dropped successfully.
+2024-07-06 13:58:11,667 - INFO - Target column dropped successfully.
+2024-07-06 13:58:11,667 - INFO - Target column dropped successfully.
+2024-07-06 13:59:55,519 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 13:59:55,519 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 13:59:55,519 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 13:59:55,529 - INFO - Successfully enriched data with date fields
+2024-07-06 13:59:55,529 - INFO - Successfully enriched data with date fields
+2024-07-06 13:59:55,529 - INFO - Successfully enriched data with date fields
+2024-07-06 13:59:55,694 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 13:59:55,694 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 13:59:55,694 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 13:59:55,754 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 13:59:55,754 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 13:59:55,754 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 13:59:55,763 - INFO - Successfully enriched data with date fields
+2024-07-06 13:59:55,763 - INFO - Successfully enriched data with date fields
+2024-07-06 13:59:55,763 - INFO - Successfully enriched data with date fields
+2024-07-06 13:59:55,834 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 13:59:55,834 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 13:59:55,834 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 13:59:55,847 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 13:59:55,847 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 13:59:55,847 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 13:59:55,848 - INFO - Target column dropped successfully.
+2024-07-06 13:59:55,848 - INFO - Target column dropped successfully.
+2024-07-06 13:59:55,848 - INFO - Target column dropped successfully.
+2024-07-06 14:01:03,863 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 14:01:03,863 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 14:01:03,863 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 14:01:03,873 - INFO - Successfully enriched data with date fields
+2024-07-06 14:01:03,873 - INFO - Successfully enriched data with date fields
+2024-07-06 14:01:03,873 - INFO - Successfully enriched data with date fields
+2024-07-06 14:01:04,052 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 14:01:04,052 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 14:01:04,052 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 14:01:14,999 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 14:01:14,999 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 14:01:14,999 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 14:01:15,011 - INFO - Successfully enriched data with date fields
+2024-07-06 14:01:15,011 - INFO - Successfully enriched data with date fields
+2024-07-06 14:01:15,011 - INFO - Successfully enriched data with date fields
+2024-07-06 14:01:15,141 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 14:01:15,141 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 14:01:15,141 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 14:01:15,218 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 14:01:15,218 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 14:01:15,218 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 14:01:15,231 - INFO - Successfully enriched data with date fields
+2024-07-06 14:01:15,231 - INFO - Successfully enriched data with date fields
+2024-07-06 14:01:15,231 - INFO - Successfully enriched data with date fields
+2024-07-06 14:01:15,301 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 14:01:15,301 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 14:01:15,301 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 14:01:15,314 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 14:01:15,314 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 14:01:15,314 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 14:01:15,316 - INFO - Target column dropped successfully.
+2024-07-06 14:01:15,316 - INFO - Target column dropped successfully.
+2024-07-06 14:01:15,316 - INFO - Target column dropped successfully.
+2024-07-06 19:13:15,147 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:13:15,147 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:13:15,147 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:13:15,164 - INFO - Successfully enriched data with date fields
+2024-07-06 19:13:15,164 - INFO - Successfully enriched data with date fields
+2024-07-06 19:13:15,164 - INFO - Successfully enriched data with date fields
+2024-07-06 19:13:15,283 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:13:15,283 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:13:15,283 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:13:15,357 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:13:15,357 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:13:15,357 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:13:15,375 - INFO - Successfully enriched data with date fields
+2024-07-06 19:13:15,375 - INFO - Successfully enriched data with date fields
+2024-07-06 19:13:15,375 - INFO - Successfully enriched data with date fields
+2024-07-06 19:13:15,473 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:13:15,473 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:13:15,473 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:13:15,509 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:13:15,509 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:13:15,509 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:13:41,880 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:13:41,880 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:13:41,880 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:13:41,891 - INFO - Successfully enriched data with date fields
+2024-07-06 19:13:41,891 - INFO - Successfully enriched data with date fields
+2024-07-06 19:13:41,891 - INFO - Successfully enriched data with date fields
+2024-07-06 19:13:42,213 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:13:42,213 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:13:42,213 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:13:42,274 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:13:42,274 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:13:42,274 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:13:42,283 - INFO - Successfully enriched data with date fields
+2024-07-06 19:13:42,283 - INFO - Successfully enriched data with date fields
+2024-07-06 19:13:42,283 - INFO - Successfully enriched data with date fields
+2024-07-06 19:13:42,354 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:13:42,354 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:13:42,354 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:13:42,368 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:13:42,368 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:13:42,368 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:14:42,504 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:14:42,504 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:14:42,504 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:14:42,516 - INFO - Successfully enriched data with date fields
+2024-07-06 19:14:42,516 - INFO - Successfully enriched data with date fields
+2024-07-06 19:14:42,516 - INFO - Successfully enriched data with date fields
+2024-07-06 19:14:42,664 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:14:42,664 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:14:42,664 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:14:42,739 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:14:42,739 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:14:42,739 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:14:42,752 - INFO - Successfully enriched data with date fields
+2024-07-06 19:14:42,752 - INFO - Successfully enriched data with date fields
+2024-07-06 19:14:42,752 - INFO - Successfully enriched data with date fields
+2024-07-06 19:14:42,835 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:14:42,835 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:14:42,835 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:14:42,847 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:14:42,847 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:14:42,847 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:15:21,972 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:15:21,972 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:15:21,972 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:15:21,983 - INFO - Successfully enriched data with date fields
+2024-07-06 19:15:21,983 - INFO - Successfully enriched data with date fields
+2024-07-06 19:15:21,983 - INFO - Successfully enriched data with date fields
+2024-07-06 19:15:22,144 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:15:22,144 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:15:22,144 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:15:22,218 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:15:22,218 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:15:22,218 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:15:22,230 - INFO - Successfully enriched data with date fields
+2024-07-06 19:15:22,230 - INFO - Successfully enriched data with date fields
+2024-07-06 19:15:22,230 - INFO - Successfully enriched data with date fields
+2024-07-06 19:15:22,313 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:15:22,313 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:15:22,313 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:15:22,326 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:15:22,326 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:15:22,326 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:15:54,949 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:15:54,949 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:15:54,949 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:15:54,961 - INFO - Successfully enriched data with date fields
+2024-07-06 19:15:54,961 - INFO - Successfully enriched data with date fields
+2024-07-06 19:15:54,961 - INFO - Successfully enriched data with date fields
+2024-07-06 19:15:55,123 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:15:55,123 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:15:55,123 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:15:55,181 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:15:55,181 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:15:55,181 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:15:55,193 - INFO - Successfully enriched data with date fields
+2024-07-06 19:15:55,193 - INFO - Successfully enriched data with date fields
+2024-07-06 19:15:55,193 - INFO - Successfully enriched data with date fields
+2024-07-06 19:15:55,276 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:15:55,276 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:15:55,276 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:15:55,290 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:15:55,290 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:15:55,290 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:15:55,293 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:15:55,293 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:15:55,293 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:17:35,031 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:17:35,031 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:17:35,031 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:17:35,042 - INFO - Successfully enriched data with date fields
+2024-07-06 19:17:35,042 - INFO - Successfully enriched data with date fields
+2024-07-06 19:17:35,042 - INFO - Successfully enriched data with date fields
+2024-07-06 19:17:35,220 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:17:35,220 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:17:35,220 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:17:35,295 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:17:35,295 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:17:35,295 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:17:35,308 - INFO - Successfully enriched data with date fields
+2024-07-06 19:17:35,308 - INFO - Successfully enriched data with date fields
+2024-07-06 19:17:35,308 - INFO - Successfully enriched data with date fields
+2024-07-06 19:17:35,391 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:17:35,391 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:17:35,391 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:17:35,405 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:17:35,405 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:17:35,405 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:17:35,410 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:17:35,410 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:17:35,410 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:23:52,271 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:23:52,271 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:23:52,271 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:23:52,280 - INFO - Successfully enriched data with date fields
+2024-07-06 19:23:52,280 - INFO - Successfully enriched data with date fields
+2024-07-06 19:23:52,280 - INFO - Successfully enriched data with date fields
+2024-07-06 19:23:52,445 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:23:52,445 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:23:52,445 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:23:52,505 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:23:52,505 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:23:52,505 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:23:52,516 - INFO - Successfully enriched data with date fields
+2024-07-06 19:23:52,516 - INFO - Successfully enriched data with date fields
+2024-07-06 19:23:52,516 - INFO - Successfully enriched data with date fields
+2024-07-06 19:23:52,586 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:23:52,586 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:23:52,586 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:23:52,601 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:23:52,601 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:23:52,601 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:23:52,605 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:23:52,605 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:23:52,605 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:23:52,605 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:23:52,605 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:23:52,605 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:25:56,779 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:25:56,779 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:25:56,779 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:25:56,793 - INFO - Successfully enriched data with date fields
+2024-07-06 19:25:56,793 - INFO - Successfully enriched data with date fields
+2024-07-06 19:25:56,793 - INFO - Successfully enriched data with date fields
+2024-07-06 19:25:56,971 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:25:56,971 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:25:56,971 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:25:57,029 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:25:57,029 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:25:57,029 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:25:57,049 - INFO - Successfully enriched data with date fields
+2024-07-06 19:25:57,049 - INFO - Successfully enriched data with date fields
+2024-07-06 19:25:57,049 - INFO - Successfully enriched data with date fields
+2024-07-06 19:25:57,125 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:25:57,125 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:25:57,125 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:25:57,137 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:25:57,137 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:25:57,137 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:25:57,140 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:25:57,140 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:25:57,140 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:25:57,140 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:25:57,140 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:25:57,140 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:27:53,231 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:27:53,231 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:27:53,231 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:27:53,242 - INFO - Successfully enriched data with date fields
+2024-07-06 19:27:53,242 - INFO - Successfully enriched data with date fields
+2024-07-06 19:27:53,242 - INFO - Successfully enriched data with date fields
+2024-07-06 19:27:53,359 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:27:53,359 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:27:53,359 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:27:53,434 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:27:53,434 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:27:53,434 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:27:53,444 - INFO - Successfully enriched data with date fields
+2024-07-06 19:27:53,444 - INFO - Successfully enriched data with date fields
+2024-07-06 19:27:53,444 - INFO - Successfully enriched data with date fields
+2024-07-06 19:27:53,514 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:27:53,514 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:27:53,514 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:27:53,529 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:27:53,529 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:27:53,529 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:27:53,531 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:27:53,531 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:27:53,531 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:29:54,187 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:29:54,187 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:29:54,187 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:29:54,199 - INFO - Successfully enriched data with date fields
+2024-07-06 19:29:54,199 - INFO - Successfully enriched data with date fields
+2024-07-06 19:29:54,199 - INFO - Successfully enriched data with date fields
+2024-07-06 19:29:54,408 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:29:54,408 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:29:54,408 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:29:54,483 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:29:54,483 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:29:54,483 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:29:54,494 - INFO - Successfully enriched data with date fields
+2024-07-06 19:29:54,494 - INFO - Successfully enriched data with date fields
+2024-07-06 19:29:54,494 - INFO - Successfully enriched data with date fields
+2024-07-06 19:29:54,562 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:29:54,562 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:29:54,562 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:29:54,574 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:29:54,574 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:29:54,574 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:29:54,577 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:29:54,577 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:29:54,577 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:29:54,578 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:29:54,578 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:29:54,578 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:38:57,734 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:38:57,734 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:38:57,734 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:38:57,747 - INFO - Successfully enriched data with date fields
+2024-07-06 19:38:57,747 - INFO - Successfully enriched data with date fields
+2024-07-06 19:38:57,747 - INFO - Successfully enriched data with date fields
+2024-07-06 19:38:57,860 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:38:57,860 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:38:57,860 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:38:57,937 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:38:57,937 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:38:57,937 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:38:57,951 - INFO - Successfully enriched data with date fields
+2024-07-06 19:38:57,951 - INFO - Successfully enriched data with date fields
+2024-07-06 19:38:57,951 - INFO - Successfully enriched data with date fields
+2024-07-06 19:38:58,033 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:38:58,033 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:38:58,033 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:38:58,052 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:38:58,052 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:38:58,052 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:38:58,056 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:38:58,056 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:38:58,056 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:38:58,056 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:38:58,056 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:38:58,056 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:38:58,071 - INFO - Successfully performed the pre-processing step!
+2024-07-06 19:38:58,071 - INFO - Successfully performed the pre-processing step!
+2024-07-06 19:38:58,071 - INFO - Successfully performed the pre-processing step!
+2024-07-06 19:44:12,589 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:44:12,589 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:44:12,589 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:44:12,607 - INFO - Successfully enriched data with date fields
+2024-07-06 19:44:12,607 - INFO - Successfully enriched data with date fields
+2024-07-06 19:44:12,607 - INFO - Successfully enriched data with date fields
+2024-07-06 19:44:12,797 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:44:12,797 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:44:12,797 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:44:12,872 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:44:12,872 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:44:12,872 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:44:12,895 - INFO - Successfully enriched data with date fields
+2024-07-06 19:44:12,895 - INFO - Successfully enriched data with date fields
+2024-07-06 19:44:12,895 - INFO - Successfully enriched data with date fields
+2024-07-06 19:44:13,016 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:44:13,016 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:44:13,016 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:44:13,043 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:44:13,043 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:44:13,043 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:44:13,048 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:44:13,048 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:44:13,048 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:44:13,049 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:44:13,049 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:44:13,049 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:44:13,090 - INFO - Successfully performed the pre-processing step!
+2024-07-06 19:44:13,090 - INFO - Successfully performed the pre-processing step!
+2024-07-06 19:44:13,090 - INFO - Successfully performed the pre-processing step!
+2024-07-06 19:46:20,497 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:46:20,497 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:46:20,497 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:46:20,508 - INFO - Successfully enriched data with date fields
+2024-07-06 19:46:20,508 - INFO - Successfully enriched data with date fields
+2024-07-06 19:46:20,508 - INFO - Successfully enriched data with date fields
+2024-07-06 19:46:20,612 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:46:20,612 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:46:20,612 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:46:20,668 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:46:20,668 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:46:20,668 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:46:20,678 - INFO - Successfully enriched data with date fields
+2024-07-06 19:46:20,678 - INFO - Successfully enriched data with date fields
+2024-07-06 19:46:20,678 - INFO - Successfully enriched data with date fields
+2024-07-06 19:46:20,749 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:46:20,749 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:46:20,749 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:46:20,763 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:46:20,763 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:46:20,763 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:46:20,766 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:46:20,766 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:46:20,766 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:46:20,766 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:46:20,766 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:46:20,766 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:53:38,778 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:53:38,778 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:53:38,778 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:53:38,789 - INFO - Successfully enriched data with date fields
+2024-07-06 19:53:38,789 - INFO - Successfully enriched data with date fields
+2024-07-06 19:53:38,789 - INFO - Successfully enriched data with date fields
+2024-07-06 19:53:38,917 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:53:38,917 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:53:38,917 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:53:38,992 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:53:38,992 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:53:38,992 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:53:39,003 - INFO - Successfully enriched data with date fields
+2024-07-06 19:53:39,003 - INFO - Successfully enriched data with date fields
+2024-07-06 19:53:39,003 - INFO - Successfully enriched data with date fields
+2024-07-06 19:53:39,074 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:53:39,074 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:53:39,074 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:53:39,088 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:53:39,088 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:53:39,088 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:53:39,090 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:53:39,090 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:53:39,090 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:53:39,091 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:53:39,091 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:53:39,091 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:53:39,103 - INFO - Successfully performed the pre-processing step!
+2024-07-06 19:53:39,103 - INFO - Successfully performed the pre-processing step!
+2024-07-06 19:53:39,103 - INFO - Successfully performed the pre-processing step!
+2024-07-06 19:53:55,084 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:53:55,084 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:53:55,084 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:53:55,094 - INFO - Successfully enriched data with date fields
+2024-07-06 19:53:55,094 - INFO - Successfully enriched data with date fields
+2024-07-06 19:53:55,094 - INFO - Successfully enriched data with date fields
+2024-07-06 19:53:55,210 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:53:55,210 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:53:55,210 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:53:55,286 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:53:55,286 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:53:55,286 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:53:55,297 - INFO - Successfully enriched data with date fields
+2024-07-06 19:53:55,297 - INFO - Successfully enriched data with date fields
+2024-07-06 19:53:55,297 - INFO - Successfully enriched data with date fields
+2024-07-06 19:53:55,383 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:53:55,383 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:53:55,383 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:53:55,404 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:53:55,404 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:53:55,404 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:53:55,409 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:53:55,409 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:53:55,409 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:53:55,410 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:53:55,410 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:53:55,410 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:53:55,432 - INFO - Successfully performed the pre-processing step!
+2024-07-06 19:53:55,432 - INFO - Successfully performed the pre-processing step!
+2024-07-06 19:53:55,432 - INFO - Successfully performed the pre-processing step!
+2024-07-06 19:54:53,253 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:54:53,253 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:54:53,253 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:54:53,264 - INFO - Successfully enriched data with date fields
+2024-07-06 19:54:53,264 - INFO - Successfully enriched data with date fields
+2024-07-06 19:54:53,264 - INFO - Successfully enriched data with date fields
+2024-07-06 19:54:53,381 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:54:53,381 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:54:53,381 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:54:53,456 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:54:53,456 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:54:53,456 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:54:53,475 - INFO - Successfully enriched data with date fields
+2024-07-06 19:54:53,475 - INFO - Successfully enriched data with date fields
+2024-07-06 19:54:53,475 - INFO - Successfully enriched data with date fields
+2024-07-06 19:54:53,569 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:54:53,569 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:54:53,569 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:54:53,584 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:54:53,584 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:54:53,584 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:54:53,587 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:54:53,587 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:54:53,587 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:54:53,587 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:54:53,587 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:54:53,587 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:54:53,601 - INFO - Successfully performed the pre-processing step!
+2024-07-06 19:54:53,601 - INFO - Successfully performed the pre-processing step!
+2024-07-06 19:54:53,601 - INFO - Successfully performed the pre-processing step!
+2024-07-06 19:55:51,651 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:55:51,651 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:55:51,651 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:55:51,663 - INFO - Successfully enriched data with date fields
+2024-07-06 19:55:51,663 - INFO - Successfully enriched data with date fields
+2024-07-06 19:55:51,663 - INFO - Successfully enriched data with date fields
+2024-07-06 19:55:51,788 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:55:51,788 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:55:51,788 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:55:51,866 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:55:51,866 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:55:51,866 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:55:51,877 - INFO - Successfully enriched data with date fields
+2024-07-06 19:55:51,877 - INFO - Successfully enriched data with date fields
+2024-07-06 19:55:51,877 - INFO - Successfully enriched data with date fields
+2024-07-06 19:55:51,961 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:55:51,961 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:55:51,961 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:55:51,978 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:55:51,978 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:55:51,978 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:55:51,981 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:55:51,981 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:55:51,981 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:55:51,982 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:55:51,982 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:55:51,982 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:55:51,997 - INFO - Successfully performed the pre-processing step!
+2024-07-06 19:55:51,997 - INFO - Successfully performed the pre-processing step!
+2024-07-06 19:55:51,997 - INFO - Successfully performed the pre-processing step!
+2024-07-06 19:55:53,222 - INFO - Successfully trained the models
+2024-07-06 19:55:53,222 - INFO - Successfully trained the models
+2024-07-06 19:55:53,222 - INFO - Successfully trained the models
+2024-07-06 19:58:37,753 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:58:37,753 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:58:37,753 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:58:37,762 - INFO - Successfully enriched data with date fields
+2024-07-06 19:58:37,762 - INFO - Successfully enriched data with date fields
+2024-07-06 19:58:37,762 - INFO - Successfully enriched data with date fields
+2024-07-06 19:58:37,913 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:58:37,913 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:58:37,913 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:58:37,972 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:58:37,972 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:58:37,972 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 19:58:37,983 - INFO - Successfully enriched data with date fields
+2024-07-06 19:58:37,983 - INFO - Successfully enriched data with date fields
+2024-07-06 19:58:37,983 - INFO - Successfully enriched data with date fields
+2024-07-06 19:58:38,053 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:58:38,053 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:58:38,053 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 19:58:38,066 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:58:38,066 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:58:38,066 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 19:58:38,068 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:58:38,068 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:58:38,068 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 19:58:38,069 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:58:38,069 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:58:38,069 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 19:58:38,082 - INFO - Successfully performed the pre-processing step!
+2024-07-06 19:58:38,082 - INFO - Successfully performed the pre-processing step!
+2024-07-06 19:58:38,082 - INFO - Successfully performed the pre-processing step!
+2024-07-06 19:58:39,084 - INFO - Successfully trained the models
+2024-07-06 19:58:39,084 - INFO - Successfully trained the models
+2024-07-06 19:58:39,084 - INFO - Successfully trained the models
+2024-07-06 19:58:39,101 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,101 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,101 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,115 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,115 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,115 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,166 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,166 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,166 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,180 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,180 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,180 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,212 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,212 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,212 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,224 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,224 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,224 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,252 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,252 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,252 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,261 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,261 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,261 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,281 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,281 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,281 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,295 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,295 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,295 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 19:58:39,295 - INFO - Successfully selected the best model
+2024-07-06 19:58:39,295 - INFO - Successfully selected the best model
+2024-07-06 19:58:39,295 - INFO - Successfully selected the best model
+2024-07-06 20:00:20,915 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 20:00:20,915 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 20:00:20,915 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 20:00:20,926 - INFO - Successfully enriched data with date fields
+2024-07-06 20:00:20,926 - INFO - Successfully enriched data with date fields
+2024-07-06 20:00:20,926 - INFO - Successfully enriched data with date fields
+2024-07-06 20:00:21,044 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 20:00:21,044 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 20:00:21,044 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 20:00:21,104 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 20:00:21,104 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 20:00:21,104 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 20:00:21,113 - INFO - Successfully enriched data with date fields
+2024-07-06 20:00:21,113 - INFO - Successfully enriched data with date fields
+2024-07-06 20:00:21,113 - INFO - Successfully enriched data with date fields
+2024-07-06 20:00:21,201 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 20:00:21,201 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 20:00:21,201 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 20:00:21,218 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 20:00:21,218 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 20:00:21,218 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 20:00:21,220 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 20:00:21,220 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 20:00:21,220 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 20:00:21,221 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 20:00:21,221 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 20:00:21,221 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 20:00:21,233 - INFO - Successfully performed the pre-processing step!
+2024-07-06 20:00:21,233 - INFO - Successfully performed the pre-processing step!
+2024-07-06 20:00:21,233 - INFO - Successfully performed the pre-processing step!
+2024-07-06 20:00:22,469 - INFO - Successfully trained the models
+2024-07-06 20:00:22,469 - INFO - Successfully trained the models
+2024-07-06 20:00:22,469 - INFO - Successfully trained the models
+2024-07-06 20:00:22,499 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,499 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,499 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,526 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,526 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,526 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,607 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,607 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,607 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,627 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,627 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,627 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,685 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,685 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,685 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,706 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,706 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,706 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,744 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,744 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,744 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,764 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,764 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,764 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,798 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,798 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,798 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,824 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,824 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,824 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:00:22,825 - INFO - Successfully selected the best model
+2024-07-06 20:00:22,825 - INFO - Successfully selected the best model
+2024-07-06 20:00:22,825 - INFO - Successfully selected the best model
+2024-07-06 20:03:22,923 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 20:03:22,923 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 20:03:22,923 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 20:03:22,940 - INFO - Successfully enriched data with date fields
+2024-07-06 20:03:22,940 - INFO - Successfully enriched data with date fields
+2024-07-06 20:03:22,940 - INFO - Successfully enriched data with date fields
+2024-07-06 20:03:23,130 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 20:03:23,130 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 20:03:23,130 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 20:03:23,222 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 20:03:23,222 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 20:03:23,222 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 20:03:23,238 - INFO - Successfully enriched data with date fields
+2024-07-06 20:03:23,238 - INFO - Successfully enriched data with date fields
+2024-07-06 20:03:23,238 - INFO - Successfully enriched data with date fields
+2024-07-06 20:03:23,351 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 20:03:23,351 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 20:03:23,351 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 20:03:23,378 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 20:03:23,378 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 20:03:23,378 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 20:03:23,384 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 20:03:23,384 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 20:03:23,384 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 20:03:23,385 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 20:03:23,385 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 20:03:23,385 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 20:03:23,410 - INFO - Successfully performed the pre-processing step!
+2024-07-06 20:03:23,410 - INFO - Successfully performed the pre-processing step!
+2024-07-06 20:03:23,410 - INFO - Successfully performed the pre-processing step!
+2024-07-06 20:03:24,953 - INFO - Successfully trained the models
+2024-07-06 20:03:24,953 - INFO - Successfully trained the models
+2024-07-06 20:03:24,953 - INFO - Successfully trained the models
+2024-07-06 20:03:24,984 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:24,984 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:24,984 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,011 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,011 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,011 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,092 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,092 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,092 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,112 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,112 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,112 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,169 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,169 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,169 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,189 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,189 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,189 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,229 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,229 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,229 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,249 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,249 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,249 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,287 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,287 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,287 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,317 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,317 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,317 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:03:25,318 - INFO - Successfully selected the best model
+2024-07-06 20:03:25,318 - INFO - Successfully selected the best model
+2024-07-06 20:03:25,318 - INFO - Successfully selected the best model
+2024-07-06 20:03:25,323 - INFO - Successfully saved the best model
+2024-07-06 20:03:25,323 - INFO - Successfully saved the best model
+2024-07-06 20:03:25,323 - INFO - Successfully saved the best model
+2024-07-06 20:06:12,473 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 20:06:12,473 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 20:06:12,473 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 20:06:12,486 - INFO - Successfully enriched data with date fields
+2024-07-06 20:06:12,486 - INFO - Successfully enriched data with date fields
+2024-07-06 20:06:12,486 - INFO - Successfully enriched data with date fields
+2024-07-06 20:06:12,619 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 20:06:12,619 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 20:06:12,619 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 20:06:12,677 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 20:06:12,677 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 20:06:12,677 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 20:06:12,685 - INFO - Successfully enriched data with date fields
+2024-07-06 20:06:12,685 - INFO - Successfully enriched data with date fields
+2024-07-06 20:06:12,685 - INFO - Successfully enriched data with date fields
+2024-07-06 20:06:12,755 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 20:06:12,755 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 20:06:12,755 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 20:06:12,769 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 20:06:12,769 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 20:06:12,769 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 20:06:12,772 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 20:06:12,772 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 20:06:12,772 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 20:06:12,773 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 20:06:12,773 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 20:06:12,773 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 20:06:12,787 - INFO - Successfully performed the pre-processing step!
+2024-07-06 20:06:12,787 - INFO - Successfully performed the pre-processing step!
+2024-07-06 20:06:12,787 - INFO - Successfully performed the pre-processing step!
+2024-07-06 20:06:13,751 - INFO - Successfully trained the models
+2024-07-06 20:06:13,751 - INFO - Successfully trained the models
+2024-07-06 20:06:13,751 - INFO - Successfully trained the models
+2024-07-06 20:06:13,768 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,768 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,768 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,781 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,781 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,781 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,830 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,830 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,830 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,844 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,844 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,844 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,880 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,880 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,880 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,890 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,890 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,890 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,910 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,910 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,910 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,920 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,920 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,920 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,938 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,938 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,938 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,952 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,952 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,952 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:06:13,953 - INFO - Successfully selected the best model
+2024-07-06 20:06:13,953 - INFO - Successfully selected the best model
+2024-07-06 20:06:13,953 - INFO - Successfully selected the best model
+2024-07-06 20:06:13,954 - INFO - Successfully saved the best model
+2024-07-06 20:06:13,954 - INFO - Successfully saved the best model
+2024-07-06 20:06:13,954 - INFO - Successfully saved the best model
+2024-07-06 20:10:06,466 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 20:10:06,466 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 20:10:06,466 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 20:10:06,478 - INFO - Successfully enriched data with date fields
+2024-07-06 20:10:06,478 - INFO - Successfully enriched data with date fields
+2024-07-06 20:10:06,478 - INFO - Successfully enriched data with date fields
+2024-07-06 20:10:06,673 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 20:10:06,673 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 20:10:06,673 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 20:10:06,749 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 20:10:06,749 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 20:10:06,749 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 20:10:06,758 - INFO - Successfully enriched data with date fields
+2024-07-06 20:10:06,758 - INFO - Successfully enriched data with date fields
+2024-07-06 20:10:06,758 - INFO - Successfully enriched data with date fields
+2024-07-06 20:10:06,830 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 20:10:06,830 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 20:10:06,830 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 20:10:06,851 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 20:10:06,851 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 20:10:06,851 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 20:10:06,854 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 20:10:06,854 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 20:10:06,854 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 20:10:06,855 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 20:10:06,855 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 20:10:06,855 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 20:10:06,873 - INFO - Successfully performed the pre-processing step!
+2024-07-06 20:10:06,873 - INFO - Successfully performed the pre-processing step!
+2024-07-06 20:10:06,873 - INFO - Successfully performed the pre-processing step!
+2024-07-06 20:10:08,050 - INFO - Successfully trained the models
+2024-07-06 20:10:08,050 - INFO - Successfully trained the models
+2024-07-06 20:10:08,050 - INFO - Successfully trained the models
+2024-07-06 20:10:08,073 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,073 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,073 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,091 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,091 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,091 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,154 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,154 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,154 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,164 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,164 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,164 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,194 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,194 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,194 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,204 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,204 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,204 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,223 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,223 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,223 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,233 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,233 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,233 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,251 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,251 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,251 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,263 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,263 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,263 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 20:10:08,263 - INFO - Successfully selected the best model
+2024-07-06 20:10:08,263 - INFO - Successfully selected the best model
+2024-07-06 20:10:08,263 - INFO - Successfully selected the best model
+2024-07-06 20:10:08,265 - INFO - Successfully saved the best model
+2024-07-06 20:10:08,265 - INFO - Successfully saved the best model
+2024-07-06 20:10:08,265 - INFO - Successfully saved the best model
+2024-07-06 21:02:21,964 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:02:21,964 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:02:21,964 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:02:21,977 - INFO - Successfully enriched data with date fields
+2024-07-06 21:02:21,977 - INFO - Successfully enriched data with date fields
+2024-07-06 21:02:21,977 - INFO - Successfully enriched data with date fields
+2024-07-06 21:02:22,171 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:02:22,171 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:02:22,171 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:02:22,229 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:02:22,229 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:02:22,229 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:02:22,240 - INFO - Successfully enriched data with date fields
+2024-07-06 21:02:22,240 - INFO - Successfully enriched data with date fields
+2024-07-06 21:02:22,240 - INFO - Successfully enriched data with date fields
+2024-07-06 21:02:22,311 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:02:22,311 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:02:22,311 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:02:22,327 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 21:02:22,327 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 21:02:22,327 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 21:02:22,330 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 21:02:22,330 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 21:02:22,330 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 21:02:22,330 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 21:02:22,330 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 21:02:22,330 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 21:02:22,344 - INFO - Successfully performed the pre-processing step!
+2024-07-06 21:02:22,344 - INFO - Successfully performed the pre-processing step!
+2024-07-06 21:02:22,344 - INFO - Successfully performed the pre-processing step!
+2024-07-06 21:02:23,380 - INFO - Successfully trained the models
+2024-07-06 21:02:23,380 - INFO - Successfully trained the models
+2024-07-06 21:02:23,380 - INFO - Successfully trained the models
+2024-07-06 21:02:23,404 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,404 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,404 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,423 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,423 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,423 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,490 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,490 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,490 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,501 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,501 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,501 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,533 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,533 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,533 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,545 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,545 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,545 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,584 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,584 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,584 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,596 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,596 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,596 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,620 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,620 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,620 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,637 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,637 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,637 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,638 - INFO - Successfully selected the best model
+2024-07-06 21:02:23,638 - INFO - Successfully selected the best model
+2024-07-06 21:02:23,638 - INFO - Successfully selected the best model
+2024-07-06 21:02:23,639 - INFO - Successfully saved the best model
+2024-07-06 21:02:23,639 - INFO - Successfully saved the best model
+2024-07-06 21:02:23,639 - INFO - Successfully saved the best model
+2024-07-06 21:02:23,660 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,660 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,660 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,679 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,679 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,679 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,728 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,728 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,728 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,738 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,738 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,738 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,767 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,767 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,767 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,777 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,777 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,777 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,796 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,796 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,796 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,805 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,805 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,805 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,823 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,823 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,823 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,835 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,835 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,835 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:02:23,836 - INFO - Successfully selected the best model
+2024-07-06 21:02:23,836 - INFO - Successfully selected the best model
+2024-07-06 21:02:23,836 - INFO - Successfully selected the best model
+2024-07-06 21:03:19,389 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:03:19,389 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:03:19,389 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:03:19,400 - INFO - Successfully enriched data with date fields
+2024-07-06 21:03:19,400 - INFO - Successfully enriched data with date fields
+2024-07-06 21:03:19,400 - INFO - Successfully enriched data with date fields
+2024-07-06 21:03:19,528 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:03:19,528 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:03:19,528 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:03:19,604 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:03:19,604 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:03:19,604 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:03:19,616 - INFO - Successfully enriched data with date fields
+2024-07-06 21:03:19,616 - INFO - Successfully enriched data with date fields
+2024-07-06 21:03:19,616 - INFO - Successfully enriched data with date fields
+2024-07-06 21:03:19,700 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:03:19,700 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:03:19,700 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:03:19,713 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 21:03:19,713 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 21:03:19,713 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 21:03:19,716 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 21:03:19,716 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 21:03:19,716 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 21:03:19,717 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 21:03:19,717 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 21:03:19,717 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 21:03:19,730 - INFO - Successfully performed the pre-processing step!
+2024-07-06 21:03:19,730 - INFO - Successfully performed the pre-processing step!
+2024-07-06 21:03:19,730 - INFO - Successfully performed the pre-processing step!
+2024-07-06 21:03:20,610 - INFO - Successfully trained the models
+2024-07-06 21:03:20,610 - INFO - Successfully trained the models
+2024-07-06 21:03:20,610 - INFO - Successfully trained the models
+2024-07-06 21:03:20,629 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,629 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,629 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,644 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,644 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,644 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,695 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,695 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,695 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,709 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,709 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,709 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,744 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,744 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,744 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,755 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,755 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,755 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,776 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,776 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,776 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,787 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,787 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,787 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,805 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,805 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,805 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,819 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,819 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,819 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,819 - INFO - Successfully selected the best model
+2024-07-06 21:03:20,819 - INFO - Successfully selected the best model
+2024-07-06 21:03:20,819 - INFO - Successfully selected the best model
+2024-07-06 21:03:20,821 - INFO - Successfully saved the best model
+2024-07-06 21:03:20,821 - INFO - Successfully saved the best model
+2024-07-06 21:03:20,821 - INFO - Successfully saved the best model
+2024-07-06 21:03:20,838 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,838 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,838 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,854 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,854 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,854 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,904 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,904 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,904 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,915 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,915 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,915 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,946 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,946 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,946 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,955 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,955 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,955 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,976 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,976 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,976 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,985 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,985 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:20,985 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:21,003 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:21,003 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:21,003 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:21,017 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:21,017 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:21,017 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:03:21,017 - INFO - Successfully selected the best model
+2024-07-06 21:03:21,017 - INFO - Successfully selected the best model
+2024-07-06 21:03:21,017 - INFO - Successfully selected the best model
+2024-07-06 21:04:32,708 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:04:32,708 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:04:32,708 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:04:32,726 - INFO - Successfully enriched data with date fields
+2024-07-06 21:04:32,726 - INFO - Successfully enriched data with date fields
+2024-07-06 21:04:32,726 - INFO - Successfully enriched data with date fields
+2024-07-06 21:04:32,958 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:04:32,958 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:04:32,958 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:04:33,051 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:04:33,051 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:04:33,051 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:04:33,081 - INFO - Successfully enriched data with date fields
+2024-07-06 21:04:33,081 - INFO - Successfully enriched data with date fields
+2024-07-06 21:04:33,081 - INFO - Successfully enriched data with date fields
+2024-07-06 21:04:33,211 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:04:33,211 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:04:33,211 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:04:33,228 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 21:04:33,228 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 21:04:33,228 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 21:04:33,231 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 21:04:33,231 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 21:04:33,231 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 21:04:33,231 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 21:04:33,231 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 21:04:33,231 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 21:04:33,247 - INFO - Successfully performed the pre-processing step!
+2024-07-06 21:04:33,247 - INFO - Successfully performed the pre-processing step!
+2024-07-06 21:04:33,247 - INFO - Successfully performed the pre-processing step!
+2024-07-06 21:04:34,142 - INFO - Successfully trained the models
+2024-07-06 21:04:34,142 - INFO - Successfully trained the models
+2024-07-06 21:04:34,142 - INFO - Successfully trained the models
+2024-07-06 21:04:34,159 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,159 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,159 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,173 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,173 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,173 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,224 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,224 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,224 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,238 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,238 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,238 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,276 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,276 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,276 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,286 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,286 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,286 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,308 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,308 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,308 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,318 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,318 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,318 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,335 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,335 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,335 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,348 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,348 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,348 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:04:34,349 - INFO - Successfully selected the best model
+2024-07-06 21:04:34,349 - INFO - Successfully selected the best model
+2024-07-06 21:04:34,349 - INFO - Successfully selected the best model
+2024-07-06 21:04:34,350 - INFO - Successfully saved the best model
+2024-07-06 21:04:34,350 - INFO - Successfully saved the best model
+2024-07-06 21:04:34,350 - INFO - Successfully saved the best model
+2024-07-06 21:05:52,554 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:05:52,554 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:05:52,554 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:05:52,570 - INFO - Successfully enriched data with date fields
+2024-07-06 21:05:52,570 - INFO - Successfully enriched data with date fields
+2024-07-06 21:05:52,570 - INFO - Successfully enriched data with date fields
+2024-07-06 21:05:52,709 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:05:52,709 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:05:52,709 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:05:52,784 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:05:52,784 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:05:52,784 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:05:52,799 - INFO - Successfully enriched data with date fields
+2024-07-06 21:05:52,799 - INFO - Successfully enriched data with date fields
+2024-07-06 21:05:52,799 - INFO - Successfully enriched data with date fields
+2024-07-06 21:05:52,912 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:05:52,912 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:05:52,912 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:05:52,935 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 21:05:52,935 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 21:05:52,935 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 21:05:52,940 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 21:05:52,940 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 21:05:52,940 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 21:05:52,941 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 21:05:52,941 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 21:05:52,941 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 21:05:52,966 - INFO - Successfully performed the pre-processing step!
+2024-07-06 21:05:52,966 - INFO - Successfully performed the pre-processing step!
+2024-07-06 21:05:52,966 - INFO - Successfully performed the pre-processing step!
+2024-07-06 21:05:54,489 - INFO - Successfully trained the models
+2024-07-06 21:05:54,489 - INFO - Successfully trained the models
+2024-07-06 21:05:54,489 - INFO - Successfully trained the models
+2024-07-06 21:05:54,520 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,520 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,520 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,546 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,546 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,546 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,627 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,627 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,627 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,647 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,647 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,647 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,704 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,704 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,704 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,724 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,724 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,724 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,763 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,763 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,763 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,782 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,782 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,782 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,816 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,816 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,816 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,841 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,841 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,841 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:05:54,841 - INFO - Successfully selected the best model
+2024-07-06 21:05:54,841 - INFO - Successfully selected the best model
+2024-07-06 21:05:54,841 - INFO - Successfully selected the best model
+2024-07-06 21:05:54,844 - INFO - Successfully saved the best model
+2024-07-06 21:05:54,844 - INFO - Successfully saved the best model
+2024-07-06 21:05:54,844 - INFO - Successfully saved the best model
+2024-07-06 21:06:32,880 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:06:32,880 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:06:32,880 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:06:32,892 - INFO - Successfully enriched data with date fields
+2024-07-06 21:06:32,892 - INFO - Successfully enriched data with date fields
+2024-07-06 21:06:32,892 - INFO - Successfully enriched data with date fields
+2024-07-06 21:06:33,040 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:06:33,040 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:06:33,040 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:06:33,116 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:06:33,116 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:06:33,116 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:06:33,128 - INFO - Successfully enriched data with date fields
+2024-07-06 21:06:33,128 - INFO - Successfully enriched data with date fields
+2024-07-06 21:06:33,128 - INFO - Successfully enriched data with date fields
+2024-07-06 21:06:33,198 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:06:33,198 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:06:33,198 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:06:33,211 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 21:06:33,211 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 21:06:33,211 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 21:06:33,213 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 21:06:33,213 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 21:06:33,213 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 21:06:33,214 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 21:06:33,214 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 21:06:33,214 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 21:06:33,226 - INFO - Successfully performed the pre-processing step!
+2024-07-06 21:06:33,226 - INFO - Successfully performed the pre-processing step!
+2024-07-06 21:06:33,226 - INFO - Successfully performed the pre-processing step!
+2024-07-06 21:06:34,237 - INFO - Successfully trained the models
+2024-07-06 21:06:34,237 - INFO - Successfully trained the models
+2024-07-06 21:06:34,237 - INFO - Successfully trained the models
+2024-07-06 21:06:34,254 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,254 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,254 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,267 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,267 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,267 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,315 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,315 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,315 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,329 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,329 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,329 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,365 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,365 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,365 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,374 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,374 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,374 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,396 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,396 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,396 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,407 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,407 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,407 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,427 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,427 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,427 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,440 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,440 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,440 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:06:34,440 - INFO - Successfully selected the best model
+2024-07-06 21:06:34,440 - INFO - Successfully selected the best model
+2024-07-06 21:06:34,440 - INFO - Successfully selected the best model
+2024-07-06 21:06:34,442 - INFO - Successfully saved the best model
+2024-07-06 21:06:34,442 - INFO - Successfully saved the best model
+2024-07-06 21:06:34,442 - INFO - Successfully saved the best model
+2024-07-06 21:09:56,407 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:09:56,407 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:09:56,407 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:09:56,420 - INFO - Successfully enriched data with date fields
+2024-07-06 21:09:56,420 - INFO - Successfully enriched data with date fields
+2024-07-06 21:09:56,420 - INFO - Successfully enriched data with date fields
+2024-07-06 21:09:56,598 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:09:56,598 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:09:56,598 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:09:56,672 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:09:56,672 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:09:56,672 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:09:56,682 - INFO - Successfully enriched data with date fields
+2024-07-06 21:09:56,682 - INFO - Successfully enriched data with date fields
+2024-07-06 21:09:56,682 - INFO - Successfully enriched data with date fields
+2024-07-06 21:09:56,753 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:09:56,753 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:09:56,753 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:09:56,767 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 21:09:56,767 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 21:09:56,767 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 21:09:56,770 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 21:09:56,770 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 21:09:56,770 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 21:09:56,771 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 21:09:56,771 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 21:09:56,771 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 21:09:56,783 - INFO - Successfully performed the pre-processing step!
+2024-07-06 21:09:56,783 - INFO - Successfully performed the pre-processing step!
+2024-07-06 21:09:56,783 - INFO - Successfully performed the pre-processing step!
+2024-07-06 21:09:57,716 - INFO - Successfully trained the models
+2024-07-06 21:09:57,716 - INFO - Successfully trained the models
+2024-07-06 21:09:57,716 - INFO - Successfully trained the models
+2024-07-06 21:09:57,734 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,734 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,734 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,749 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,749 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,749 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,799 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,799 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,799 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,812 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,812 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,812 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,847 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,847 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,847 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,857 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,857 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,857 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,878 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,878 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,878 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,888 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,888 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,888 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,905 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,905 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,905 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,918 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,918 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,918 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:09:57,918 - INFO - Successfully selected the best model
+2024-07-06 21:09:57,918 - INFO - Successfully selected the best model
+2024-07-06 21:09:57,918 - INFO - Successfully selected the best model
+2024-07-06 21:09:57,920 - INFO - Successfully saved the best model
+2024-07-06 21:09:57,920 - INFO - Successfully saved the best model
+2024-07-06 21:09:57,920 - INFO - Successfully saved the best model
+2024-07-06 21:10:23,874 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:10:23,874 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:10:23,874 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:10:23,884 - INFO - Successfully enriched data with date fields
+2024-07-06 21:10:23,884 - INFO - Successfully enriched data with date fields
+2024-07-06 21:10:23,884 - INFO - Successfully enriched data with date fields
+2024-07-06 21:10:23,987 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:10:23,987 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:10:23,987 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:10:24,047 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:10:24,047 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:10:24,047 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:10:24,055 - INFO - Successfully enriched data with date fields
+2024-07-06 21:10:24,055 - INFO - Successfully enriched data with date fields
+2024-07-06 21:10:24,055 - INFO - Successfully enriched data with date fields
+2024-07-06 21:10:24,127 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:10:24,127 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:10:24,127 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:10:24,140 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 21:10:24,140 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 21:10:24,140 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 21:10:24,142 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 21:10:24,142 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 21:10:24,142 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 21:10:24,143 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 21:10:24,143 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 21:10:24,143 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 21:10:24,155 - INFO - Successfully performed the pre-processing step!
+2024-07-06 21:10:24,155 - INFO - Successfully performed the pre-processing step!
+2024-07-06 21:10:24,155 - INFO - Successfully performed the pre-processing step!
+2024-07-06 21:10:25,181 - INFO - Successfully trained the models
+2024-07-06 21:10:25,181 - INFO - Successfully trained the models
+2024-07-06 21:10:25,181 - INFO - Successfully trained the models
+2024-07-06 21:10:25,202 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,202 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,202 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,220 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,220 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,220 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,285 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,285 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,285 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,295 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,295 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,295 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,324 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,324 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,324 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,334 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,334 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,334 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,354 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,354 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,354 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,364 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,364 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,364 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,387 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,387 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,387 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,406 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,406 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,406 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:10:25,406 - INFO - Successfully selected the best model
+2024-07-06 21:10:25,406 - INFO - Successfully selected the best model
+2024-07-06 21:10:25,406 - INFO - Successfully selected the best model
+2024-07-06 21:10:25,408 - INFO - Successfully saved the best model
+2024-07-06 21:10:25,408 - INFO - Successfully saved the best model
+2024-07-06 21:10:25,408 - INFO - Successfully saved the best model
+2024-07-06 21:12:12,596 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:12:12,596 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:12:12,596 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:12:12,607 - INFO - Successfully enriched data with date fields
+2024-07-06 21:12:12,607 - INFO - Successfully enriched data with date fields
+2024-07-06 21:12:12,607 - INFO - Successfully enriched data with date fields
+2024-07-06 21:12:12,739 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:12:12,739 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:12:12,739 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:12:12,801 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:12:12,801 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:12:12,801 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-06 21:12:12,811 - INFO - Successfully enriched data with date fields
+2024-07-06 21:12:12,811 - INFO - Successfully enriched data with date fields
+2024-07-06 21:12:12,811 - INFO - Successfully enriched data with date fields
+2024-07-06 21:12:12,880 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:12:12,880 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:12:12,880 - INFO - Successfully enriched data with technical indicator fields
+2024-07-06 21:12:12,893 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 21:12:12,893 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 21:12:12,893 - INFO - Successfully found the numerical columns to drop from  stock dataset
+2024-07-06 21:12:12,895 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 21:12:12,895 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 21:12:12,895 - INFO - Successfully splitted the dataset into train-test sets
+2024-07-06 21:12:12,896 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 21:12:12,896 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 21:12:12,896 - INFO - Successfully found numeric and categorical columns from the dataset
+2024-07-06 21:12:12,907 - INFO - Successfully performed the pre-processing step!
+2024-07-06 21:12:12,907 - INFO - Successfully performed the pre-processing step!
+2024-07-06 21:12:12,907 - INFO - Successfully performed the pre-processing step!
+2024-07-06 21:12:14,482 - INFO - Successfully trained the models
+2024-07-06 21:12:14,482 - INFO - Successfully trained the models
+2024-07-06 21:12:14,482 - INFO - Successfully trained the models
+2024-07-06 21:12:14,513 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,513 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,513 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,540 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,540 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,540 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,634 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,634 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,634 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,655 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,655 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,655 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,714 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,714 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,714 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,735 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,735 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,735 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,781 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,781 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,781 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,800 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,800 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,800 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,838 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,838 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,838 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,865 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,865 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,865 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-06 21:12:14,866 - INFO - Successfully selected the best model
+2024-07-06 21:12:14,866 - INFO - Successfully selected the best model
+2024-07-06 21:12:14,866 - INFO - Successfully selected the best model
+2024-07-06 21:12:14,869 - INFO - Successfully saved the best model
+2024-07-06 21:12:14,869 - INFO - Successfully saved the best model
+2024-07-06 21:12:14,869 - INFO - Successfully saved the best model

@@ -11,3 +11,5 @@ numpy
 ydata-profiling
 pmdarima
 statsmodels
+catboost
+xgboost

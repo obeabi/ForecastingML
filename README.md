@@ -1,5 +1,5 @@
 
-# Stock Price Prediction using state of art Machine learnng models
+# Stock Price Prediction using state-of-art Machine learning models
 
 ![License](https://img.shields.io/badge/license-AbiolaObembe-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)
@@ -13,7 +13,7 @@ Welcome to this Stcok Price Prediction Repository! This repository provides a hi
 
 - **Data Cleaning:** Automatically handles missing values, outliers, and other common data issues.
 - **Feature Engineering:** Includes built-in functions for feature selection, transformation, and creation.
-- **Model Training:** Supports training on various regression models such as RandomForest, CatBoost, XGBoost, and more.
+- **Model Training:** Supports training on various classification/regression models such as RandomForest, CatBoost, XGBoost, and more.
 - **Dataset Splitting:** Efficiently splits datasets into training and testing sets.
 - **Model Selection:** Automatically finds the best model from a plethora of ML models based on performance metrics.
 - **Hyperparameter Tuning:** Uses techniques like grid search and random search for optimizing model parameters.

@@ -7,6 +7,7 @@ import pandas as pd
 import pandas_ta as ta
 import pandas_datareader.data as web
 import numpy as np
+import seaborn as sns
 import matplotlib.pyplot as plt
 import plotly.express as px
 from sklearn.impute import KNNImputer
@@ -22,7 +23,7 @@ class instrument:
         This class object fetches xxxxx and xxx data
     """
 
-    def __init__(self, ticker, start_date='2023-01-01', end_date='2026-12-31', interval='1wk'):
+    def __init__(self, ticker, start_date='2022-01-01', end_date='2026-12-31', interval='1wk'):
         self.ticker = ticker
         self.start_date = start_date
         self.end_date = end_date
@@ -37,14 +38,6 @@ class instrument:
             df = yf.download(self.ticker, self.start_date, self.end_date, self.interval)
             if self.interval == '1d':
                 df = df.copy()
-                df['open-close'] = df['Open'] - df['Close']
-                df['low-high'] = df['Low'] - df['High']
-                df['MA_10'] = df['Close'].rolling(window=10).mean()
-                df['Volatility_10'] = df['Close'].rolling(window=10).std()
-                df['MA_20'] = df['Close'].rolling(window=20).mean()
-                df['Volatility_20'] = df['Close'].rolling(window=20).std()
-                df['Return'] = df['Close'].pct_change()
-                df['Target'] = np.where(df['Close'].shift(-1) > df['Close'], 1, 0)
             elif self.interval == '1wk':
                 df = df.copy()
                 # Resample daily data to weekly frequency
@@ -52,14 +45,6 @@ class instrument:
                     {'Open': 'first', 'High': 'max', 'Low': 'min', 'Close': 'last', 'Adj Close': 'last',
                      'Volume': 'sum'})
                 df = df.copy()
-                df['open-close'] = df['Open'] - df['Close']
-                df['low-high'] = df['Low'] - df['High']
-                df['MA_10'] = df['Close'].rolling(window=10).mean()
-                df['Volatility_10'] = df['Close'].rolling(window=10).std()
-                df['MA_20'] = df['Close'].rolling(window=20).mean()
-                df['Volatility_20'] = df['Close'].rolling(window=20).std()
-                df['Return'] = df['Close'].pct_change()
-                df['Target'] = np.where(df['Close'].shift(-1) > df['Close'], 1, 0)
 
             elif self.interval == '1mo':
                 df = df.copy()
@@ -67,21 +52,11 @@ class instrument:
                 df = df.resample('ME').agg(
                     {'Open': 'first', 'High': 'max', 'Low': 'min', 'Close': 'last', 'Adj Close': 'last',
                      'Volume': 'sum'})
-                df['open-close'] = df['Open'] - df['Close']
-                df['low-high'] = df['Low'] - df['High']
-                df['MA_10'] = df['Close'].rolling(window=10).mean()
-                df['Volatility_10'] = df['Close'].rolling(window=10).std()
-                df['MA_20'] = df['Close'].rolling(window=20).mean()
-                df['Volatility_20'] = df['Close'].rolling(window=20).std()
-                df['Return'] = df['Close'].pct_change()
-                df['Target'] = np.where(df['Close'].shift(-1) > df['Close'], 1, 0)
             else:
                 print("Wrong input!")
 
             logs.log("Successfully downloaded price-action data from yahoo finance API")
-            return df[
-                ['Open', 'High', 'Low', 'Close', 'Volume', 'open-close', 'low-high', 'MA_10', 'Volatility_10', 'MA_20',
-                 'Volatility_20', 'Return', 'Target']]
+            return df[['Open', 'High', 'Low', 'Close', 'Volume']]
         except Exception as e:
             raise ValueError(f"Error in preprocessing data: {e}")
             logs.log("Something went wrong while downloading price-action data from yahoo finance API", level='ERROR')
@@ -99,6 +74,14 @@ class instrument:
             df['Year'] = df.index.year
 
             if self.interval == '1d':
+                df['open-close'] = df['Open'] - df['Close']
+                df['low-high'] = df['Low'] - df['High']
+                df['MA_10'] = df['Close'].rolling(window=10).mean()
+                df['Volatility_10'] = df['Close'].rolling(window=10).std()
+                df['MA_20'] = df['Close'].rolling(window=20).mean()
+                df['Volatility_20'] = df['Close'].rolling(window=20).std()
+                df['Return'] = df['Close'].pct_change()
+                df['Target'] = np.where(df['Close'].shift(-1) > df['Close'], 1, 0)
                 df['is_month_start'] = df.index.to_series().dt.is_month_start
                 df['is_month_end'] = df.index.to_series().dt.is_month_end
                 df['is_quarter_end'] = df.index.to_series().dt.is_quarter_end
@@ -107,11 +90,27 @@ class instrument:
                 df['day_name'] = df.index.to_series().dt.day_name()
 
             elif self.interval == '1wk':
+                df['open-close'] = df['Open'] - df['Close']
+                df['low-high'] = df['Low'] - df['High']
+                df['MA_10'] = df['Close'].rolling(window=10).mean()
+                df['Volatility_10'] = df['Close'].rolling(window=10).std()
+                df['MA_20'] = df['Close'].rolling(window=20).mean()
+                df['Volatility_20'] = df['Close'].rolling(window=20).std()
+                df['Return'] = df['Close'].pct_change()
+                df['Target'] = np.where(df['Close'].shift(-1) > df['Close'], 1, 0)
                 df['is_month_start'] = df.index.to_series().dt.is_month_start
                 df['is_month_end'] = df.index.to_series().dt.is_month_end
                 df['is_quarter_end'] = df.index.to_series().dt.is_quarter_end
 
             elif self.interval == '1mo':
+                df['open-close'] = df['Open'] - df['Close']
+                df['low-high'] = df['Low'] - df['High']
+                df['MA_10'] = df['Close'].rolling(window=10).mean()
+                df['Volatility_10'] = df['Close'].rolling(window=10).std()
+                df['MA_20'] = df['Close'].rolling(window=20).mean()
+                df['Volatility_20'] = df['Close'].rolling(window=20).std()
+                df['Return'] = df['Close'].pct_change()
+                df['Target'] = np.where(df['Close'].shift(-1) > df['Close'], 1, 0)
                 df['is_quarter_end'] = df.index.to_series().dt.is_quarter_end
             logs.log("Successfully enriched data with date fields")
             return df
@@ -119,13 +118,45 @@ class instrument:
             raise ValueError(f"Error in enriching data with date fields: {e}")
             logs.log("Something went wrong while enriching the data with date fields", level='ERROR')
 
+    def cursory_stockperformnace_analysis(self):
+        """
+        Quick analysis of price action at year-end and quarter-end
+        :return:
+        """
+        try:
+            df = self.download_price_volume().copy()
+            df['year'] = df.index.year
+            data_grouped = df.groupby('year').mean()
+            plt.figure(figsize=(20, 10))
+            for i, col in enumerate(['Open', 'High', 'Low', 'Close']):
+                plt.subplot(2, 2, i+1)
+                data_grouped[col].plot.bar()
+            plt.show()  # Show all distribution plots in one figure
+            logs.log("Successfully performed quick analysis of stock performance")
+        except Exception as e:
+            raise ValueError(f"Error in performing quick analysis of stock performance: {e}")
+            logs.log("Something went wrong while performing quick analysis of stock performance", level='ERROR')
+
+    def end_of_quarter_stockperformance(self):
+        """
+        Quick end of quarter stock performance
+        :return:
+        """
+        try:
+            df = self.download_price_volume().copy()
+            df['is_quarter_end'] = df.index.to_series().dt.is_quarter_end
+            logs.log("Successfully performed end of quarter stock analysis")
+            return df.groupby('is_quarter_end').mean()
+        except Exception as e:
+            raise ValueError(f"Error in performing quick end of quarter analysis of stock performance: {e}")
+            logs.log("Something went wrong while performing quick end of quarter analysis of stock performance", level='ERROR')
+
     def add_technical_indicators(self):
         """
         :return:
         """
         try:
-            df = self.enrich_data_date()
-            df = df.copy()
+            df = self.enrich_data_date().copy()
             df.ta.rsi(close="Close", append=True)
             df.ta.macd(close="Close", append=True)
             df.ta.atr(length=14, append=True)
@@ -187,8 +218,10 @@ class instrument:
         :return:
         """
         try:
-            df1 = self.add_technical_indicators()
-            df1 = df1.copy()
+            df1 = self.add_technical_indicators().copy()
+            #columns_keep, _ = self.drop_correlated_features()
+            #df1 = df1[columns_keep].copy()
+            #df1 = df1.copy()
             cpi_data, fed_funds_rate, nfp_data = self.add_macro_indicators()
             cpi_data, fed_funds_rate, nfp_data = cpi_data.copy(), fed_funds_rate.copy(), nfp_data.copy()
 
@@ -323,7 +356,94 @@ class instrument:
             column_names = ['Open', 'High', 'Low', 'Close', 'Volume', 'open-close', 'low-high', 'RSI_14', 'ATRr_14',
                             'Return', 'VIX', 'Target', 'CPIAUCNS', 'FEDFUNDS', 'NonfarmPayrolls']
             logs.log("Successfully enriched data with date fields")
-            return merged_df3[column_names]
+            return merged_df3
         except Exception as e:
             raise ValueError(f"Error in combining the technical and macro-economical datasets: {e}")
             logs.log("Something went wrong while combining the technical and macro-economical datasets", level='ERROR')
+
+    def plot_price_volume_distribution(self):
+        """
+         Plot distribution of numerical features
+        :return:
+        """
+        try:
+            df = self.download_price_volume()
+            df = df.copy()
+            features = df.columns
+
+            plt.figure(figsize=(20, 10))
+            for i, col in enumerate(features):
+                plt.subplot(2, 3, i+1)
+                sns.distplot(df[col])
+            plt.show()  # Show all distribution plots in one figure
+
+            # Plot box plots
+            plt.figure(figsize=(20, 10))
+            for i, col in enumerate(features):
+                plt.subplot(2, 3, i+1)
+                sns.boxplot(df[col])
+            plt.show()  # Show all box plots in one figure
+
+            logs.log("Successfully rendered distribution plots of price-volume data")
+        except Exception as e:
+            raise ValueError(f"Error in rendering distribution plots of price-volume data: {e}")
+            logs.log("Something went wrong while rendering distribution plots of price-volume data", level='ERROR')
+
+    def plot_target_distribution(self):
+        """
+        Plots the distribution of the target variable.
+        Returns:
+        - None
+        """
+        # Plot count distribution
+        try:
+            df = self.enrich_data_date().copy()
+            plt.figure(figsize=(12, 6))
+            plt.pie(df['Target'].value_counts().values, labels=[0, 1], autopct='%1.1f%%')
+            plt.title('Pie Plot : Class Distribution of Target Variable')
+            plt.ylabel('')
+            plt.tight_layout()
+            plt.show()
+            logs.log("Successfully rendered distribution plots of target variable")
+        except Exception as e:
+            raise ValueError(f"Error while rendering distribution plots of target variable : {e}")
+            logs.log("An error was raised while rendering distribution plots of target variable", level='ERROR')
+
+    def find_correlated_features(self):
+        """
+        Plots the correlation heat-map for all features of the stock data
+        :return:
+        """
+        try:
+            df = self.add_technical_indicators().copy()
+            numeric_columns = df.select_dtypes(include=[float, int]).columns.tolist()
+            plt.figure(figsize=(12, 12))
+            sns.heatmap(df[numeric_columns].corr() > 0.8, annot=True)
+            plt.show()
+            logs.log("Successfully rendered correlation plot for stock dataset")
+        except Exception as e:
+            raise ValueError(f"Error while rendering correlation plot for stock dataset : {e}")
+            logs.log("An error was raised while rendering correlation plot for stock dataset  ", level='ERROR')
+
+    def drop_correlated_features(self):
+        """
+        Plots the correlation heat-map for all features of the stock data
+        :return:
+        """
+        try:
+            df = self.add_technical_indicators().copy()
+            numeric_columns = df.select_dtypes(include=[float, int]).columns.tolist()
+            x_num = df[numeric_columns].dropna()
+            x_num.drop(columns=['Target'], inplace=True)
+            correlation_matrix = x_num.corr().abs()
+            upper_triangle = correlation_matrix.where(np.triu(np.ones(correlation_matrix.shape), k=1).astype(bool))
+            high_correlation_pairs = [(column, row) for row in upper_triangle.index for column in upper_triangle.columns if upper_triangle.loc[row, column] > 0.8]
+            columns_to_drop = {column for column, row in high_correlation_pairs}
+            df_reduced = df.drop(columns=columns_to_drop)
+            logs.log("Successfully found the numerical columns to drop from  stock dataset")
+            return df_reduced.columns, columns_to_drop
+        except Exception as e:
+            raise ValueError(f"Error while found the numerical columns to drop from  stock dataset : {e}")
+            logs.log("An error was raised while finding the numerical columns to drop from  stock dataset ", level='ERROR')
+
+
