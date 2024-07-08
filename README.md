@@ -37,6 +37,7 @@ To use the regressor class, clone the repository and install the necessary depen
 git clone https://github.com/yourusername/ForecastingML.git
 cd Regressions
 pip install -r requirements.txt
+git push -u origin main
 
 
 
