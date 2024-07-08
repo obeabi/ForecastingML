@@ -237,9 +237,9 @@ class MLClassifier:
             raise ValueError(f"Error in fitting model: {e}")
             logger.log("Something went wrong while training models", level='ERROR')
 
-    def predict(self, X, model):
+    def prediction(self, X, model):
         """
-         Perform  prediction on trained regression model
+         Perform  prediction on trained model
         :param X:
         :param model
         :return: prediction
@@ -247,7 +247,8 @@ class MLClassifier:
         try:
             y_pred = model.predict(X)
             y_pred_proba = model.predict_proba(X)[:, 1]
-            return y_pred, y_pred
+            logger.log("Successfully made predictions from the models")
+            return y_pred, y_pred_proba
         except Exception as e:
             raise ValueError(f"Error in making predictions: {e}")
             logger.log("Something went wrong while making predictions", level='ERROR')
@@ -295,8 +296,8 @@ class MLClassifier:
             best_model_name = None
             best_model = None
             for model_name, model in self.trained_models.items():
-                y_train_pred, y_train_pred_proba = self.predict(X_train, model)
-                y_test_pred, y_test_pred_proba = self.predict(X_test, model)
+                y_train_pred, y_train_pred_proba = self.prediction(X_train, model)
+                y_test_pred, y_test_pred_proba = self.prediction(X_test, model)
                 train_scores = self.evaluate_model(y_train, y_train_pred, y_train_pred_proba)
                 test_scores = self.evaluate_model(y_test, y_test_pred, y_test_pred_proba)
 
@@ -307,7 +308,6 @@ class MLClassifier:
                     best_model = model
             self.best_model = best_model
             self.best_model_name = best_model_name
-            #self.test_best_model = self.evaluation_results[best_model_name]["Test"]
             logger.log("Successfully selected the best model")
             return best_model_name, best_model
         except Exception as e:
@@ -389,7 +389,7 @@ class MLClassifier:
             raise ValueError(f"Error while finding the number of clusters : {e}")
             logger.log("An error was raised while finding the number of clusters", level='ERROR')
 
-    def split_train_test(self, data, test_size=0.2):
+    def split_train_test(self, data, test_size=0.01):
         """
 
         :param data:
@@ -399,6 +399,9 @@ class MLClassifier:
         try:
             # Ensure the data is sorted by date
             df = data.sort_index()
+            # Split the data
+            #train_df = df.iloc[:-1]
+            #test_df = df.iloc[-1:]
             # Calculate the number of test samples
             n_test = int(len(df) * test_size)
             # Split the data
@@ -430,7 +433,7 @@ class MLClassifier:
             plt.xlabel('Predicted')
             plt.ylabel('Actual')
             plt.title(f'Confusion Matrix for {self.best_model_name}')
-            plt.show()
+            plt.show(block=False)
         except Exception as e:
             raise ValueError(f"Error while plotting the confusion matrix : {e}")
             logger.log("An error was raised while plotting the confusion matrix", level='ERROR')
@@ -482,6 +485,8 @@ class MLClassifier:
         except Exception as e:
             raise ValueError(f"Error while rendering distribution plots of target variable : {e}")
             logger.log("An error was raised while rendering distribution plots of target variable", level='ERROR')
+
+
 
 
 # Press the green button in the gutter to run the script.
