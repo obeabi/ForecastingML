@@ -18005,3 +18005,155 @@
 2024-07-20 20:09:13,489 - INFO - Successfully made predictions from the models
 2024-07-20 20:09:13,489 - INFO - Successfully made predictions from the models
 2024-07-20 20:09:13,489 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:38,745 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-21 16:58:38,745 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-21 16:58:38,745 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-21 16:58:38,745 - INFO - Successfully downloaded price-action data from yahoo finance API
+2024-07-21 16:58:38,764 - INFO - Successfully enriched data with date fields
+2024-07-21 16:58:38,764 - INFO - Successfully enriched data with date fields
+2024-07-21 16:58:38,764 - INFO - Successfully enriched data with date fields
+2024-07-21 16:58:38,764 - INFO - Successfully enriched data with date fields
+2024-07-21 16:58:38,918 - INFO - Successfully enriched data with technical indicator fields
+2024-07-21 16:58:38,918 - INFO - Successfully enriched data with technical indicator fields
+2024-07-21 16:58:38,918 - INFO - Successfully enriched data with technical indicator fields
+2024-07-21 16:58:38,918 - INFO - Successfully enriched data with technical indicator fields
+2024-07-21 16:58:38,943 - INFO - Successfully dropped mult-collinear columns!
+2024-07-21 16:58:38,943 - INFO - Successfully dropped mult-collinear columns!
+2024-07-21 16:58:38,943 - INFO - Successfully dropped mult-collinear columns!
+2024-07-21 16:58:38,943 - INFO - Successfully dropped mult-collinear columns!
+2024-07-21 16:58:38,945 - INFO - Successfully extracted numerical and categorical columns!
+2024-07-21 16:58:38,945 - INFO - Successfully extracted numerical and categorical columns!
+2024-07-21 16:58:38,945 - INFO - Successfully extracted numerical and categorical columns!
+2024-07-21 16:58:38,945 - INFO - Successfully extracted numerical and categorical columns!
+2024-07-21 16:58:38,946 - INFO - Successfully split the dataset to train-test set!
+2024-07-21 16:58:38,946 - INFO - Successfully split the dataset to train-test set!
+2024-07-21 16:58:38,946 - INFO - Successfully split the dataset to train-test set!
+2024-07-21 16:58:38,946 - INFO - Successfully split the dataset to train-test set!
+2024-07-21 16:58:38,976 - INFO - Successfully retrieved features name!
+2024-07-21 16:58:38,976 - INFO - Successfully retrieved features name!
+2024-07-21 16:58:38,976 - INFO - Successfully retrieved features name!
+2024-07-21 16:58:38,976 - INFO - Successfully retrieved features name!
+2024-07-21 16:58:38,976 - INFO - Successfully fitted the pre-processing pipeline!
+2024-07-21 16:58:38,976 - INFO - Successfully fitted the pre-processing pipeline!
+2024-07-21 16:58:38,976 - INFO - Successfully fitted the pre-processing pipeline!
+2024-07-21 16:58:38,976 - INFO - Successfully fitted the pre-processing pipeline!
+2024-07-21 16:58:38,985 - INFO - Successfully transformed the dataset using the pre-processing pipeline
+2024-07-21 16:58:38,985 - INFO - Successfully transformed the dataset using the pre-processing pipeline
+2024-07-21 16:58:38,985 - INFO - Successfully transformed the dataset using the pre-processing pipeline
+2024-07-21 16:58:38,985 - INFO - Successfully transformed the dataset using the pre-processing pipeline
+2024-07-21 16:58:40,708 - INFO - Successfully trained the models
+2024-07-21 16:58:40,708 - INFO - Successfully trained the models
+2024-07-21 16:58:40,708 - INFO - Successfully trained the models
+2024-07-21 16:58:40,708 - INFO - Successfully trained the models
+2024-07-21 16:58:40,722 - INFO - Successfully transformed the dataset using the pre-processing pipeline
+2024-07-21 16:58:40,722 - INFO - Successfully transformed the dataset using the pre-processing pipeline
+2024-07-21 16:58:40,722 - INFO - Successfully transformed the dataset using the pre-processing pipeline
+2024-07-21 16:58:40,722 - INFO - Successfully transformed the dataset using the pre-processing pipeline
+2024-07-21 16:58:40,723 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,723 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,723 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,723 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,724 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,724 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,724 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,724 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,751 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,751 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,751 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,751 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,775 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,775 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,775 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,775 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,811 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,811 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,811 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,811 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,829 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,829 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,829 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,829 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,844 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,844 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,844 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,844 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,859 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,859 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,859 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,859 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,911 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,911 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,911 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,911 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,912 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,912 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,912 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,912 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,930 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,930 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,930 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,930 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,943 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,943 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,943 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,943 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,964 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,964 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,964 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,964 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,965 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,965 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,965 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,965 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,980 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,980 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,980 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,980 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,992 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,992 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,992 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,992 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:40,997 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,997 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,997 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,997 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,999 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,999 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,999 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:40,999 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:41,018 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:41,018 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:41,018 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:41,018 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:41,036 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:41,036 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:41,036 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:41,036 - INFO - Successfully saved the evaluation result as a dictionary object
+2024-07-21 16:58:41,036 - INFO - Successfully selected the best model
+2024-07-21 16:58:41,036 - INFO - Successfully selected the best model
+2024-07-21 16:58:41,036 - INFO - Successfully selected the best model
+2024-07-21 16:58:41,036 - INFO - Successfully selected the best model
+2024-07-21 16:58:41,038 - INFO - Successfully saved the best model
+2024-07-21 16:58:41,038 - INFO - Successfully saved the best model
+2024-07-21 16:58:41,038 - INFO - Successfully saved the best model
+2024-07-21 16:58:41,038 - INFO - Successfully saved the best model
+2024-07-21 16:58:41,787 - INFO - Successfully transformed the dataset using the pre-processing pipeline
+2024-07-21 16:58:41,787 - INFO - Successfully transformed the dataset using the pre-processing pipeline
+2024-07-21 16:58:41,787 - INFO - Successfully transformed the dataset using the pre-processing pipeline
+2024-07-21 16:58:41,787 - INFO - Successfully transformed the dataset using the pre-processing pipeline
+2024-07-21 16:58:41,853 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:41,853 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:41,853 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:41,853 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:42,360 - INFO - Successfully generated next day data
+2024-07-21 16:58:42,360 - INFO - Successfully generated next day data
+2024-07-21 16:58:42,360 - INFO - Successfully generated next day data
+2024-07-21 16:58:42,360 - INFO - Successfully generated next day data
+2024-07-21 16:58:42,378 - INFO - Successfully transformed the dataset using the pre-processing pipeline
+2024-07-21 16:58:42,378 - INFO - Successfully transformed the dataset using the pre-processing pipeline
+2024-07-21 16:58:42,378 - INFO - Successfully transformed the dataset using the pre-processing pipeline
+2024-07-21 16:58:42,378 - INFO - Successfully transformed the dataset using the pre-processing pipeline
+2024-07-21 16:58:42,380 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:42,380 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:42,380 - INFO - Successfully made predictions from the models
+2024-07-21 16:58:42,380 - INFO - Successfully made predictions from the models

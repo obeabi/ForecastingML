@@ -103,9 +103,9 @@ if __name__ == '__main__':
     #
     # Interpret the prediction
     if y_pred[0] == 1:
-        print("The model predicts that the stock price will go up.")
+        print("The model predicts that the stock price will go up tomorrow.")
     else:
-        print("The model predicts that the stock price will go down.")
+        print("The model predicts that the stock price will go down tomorrow.")
 
     # Print prediction probabilities
     print(f"Probability of going up: {y_pred_proba[0]:.2f}")
