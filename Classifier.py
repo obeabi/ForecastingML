@@ -4,8 +4,9 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score, confusion_matrix, roc_curve, roc_auc_score, classification_report
-from sklearn.preprocessing import StandardScaler, OneHotEncoder, OrdinalEncoder, LabelEncoder, MinMaxScaler, FunctionTransformer
-from sklearn.model_selection import train_test_split, GridSearchCV, RandomizedSearchCV
+from sklearn.preprocessing import StandardScaler, OneHotEncoder, OrdinalEncoder, LabelEncoder, MinMaxScaler, \
+    FunctionTransformer
+from sklearn.model_selection import train_test_split, GridSearchCV, RandomizedSearchCV, cross_val_score, KFold
 from statsmodels.stats.outliers_influence import variance_inflation_factor
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
@@ -55,26 +56,144 @@ class MLClassifier:
                                            class_weight='balanced', verbose=True, max_iter=self.max_iter,
                                            random_state=self.random_state),
             "CatBoostClassifier": CatBoostClassifier(iterations=self.max_iter, learning_rate=self.learning_rate,
-                                                     depth=6, loss_function='Logloss', eval_metric='AUC', verbose=10,
+                                                     depth=6, loss_function='Logloss', eval_metric='Accuracy',
+                                                     verbose=10,
                                                      auto_class_weights='Balanced'),
             "XGBClassifier": xgb.XGBClassifier(n_estimators=self.n_estimators, learning_rate=self.learning_rate,
                                                random_state=self.random_state, scale_pos_weight=1)
         }
 
-    def drop_target_column(self, df):
+    def correlation_multicollinearity(self, X, threshold=0.9):
         """
-        Drop the target column from the DataFrame.
-
-        :param df: pandas DataFrame from which to drop the target column
-        :return: DataFrame with the target column dropped
+        Checks for multi-collinearity between features using pearson correlation
+        :param X:
+        :param threshold:
+        :return: non-collinear features
         """
         try:
-            df = df.drop(columns=['Target'])
-            logger.log("Target column dropped successfully.")
-            return df
+            numeric_features = X.select_dtypes(include=[float, int]).columns.tolist()
+            x_num = X[numeric_features].dropna()
+            correlation_matrix = x_num.corr().abs()
+            upper_triangle = correlation_matrix.where(np.triu(np.ones(correlation_matrix.shape), k=1).astype(bool))
+            high_correlation_pairs = [(column, row) for row in upper_triangle.index for column in upper_triangle.columns
+                                      if upper_triangle.loc[row, column] > threshold]
+            columns_to_drop = {column for column, row in high_correlation_pairs}
+            df_reduced = X.drop(columns=columns_to_drop)
+            logger.log("Successfully dropped mult-collinear columns!")
+            return df_reduced.columns, columns_to_drop
         except Exception as e:
-            raise ValueError(f"Something went wrong while finding the target column to drop: {e}")
-            logger.log("Something went wrong while finding the the target column to drop", level='ERROR')
+            raise ValueError(f"Error in checking multi-collinearity: {e}")
+            logger.log("Something went wrong while checking multi-collinearity:", level='ERROR')
+
+    def preprocessor_fit(self, X, one_hot_encode_cols=None, label_encode_cols=None):
+        """
+        Fit the preprocessor on the data.
+
+        Args:
+            X (pd.DataFrame): Input data containing both numerical and categorical columns.
+            one_hot_encode_cols (list): List of categorical columns to one-hot encode.
+            label_encode_cols (list): List of categorical columns to label encode.
+        """
+        try:
+            self.numerical_cols = X.select_dtypes(include=['number']).columns.tolist()
+            self.categorical_cols = X.select_dtypes(include=['object', 'category']).columns.tolist()
+
+            transformers = []
+
+            if self.numerical_cols:
+                num_pipeline = Pipeline([
+                    ('num_imputer', SimpleImputer(strategy='mean')),
+                    ('scaler', StandardScaler())
+                ])
+                transformers.append(('num', num_pipeline, self.numerical_cols))
+
+            if self.categorical_cols:
+                if one_hot_encode_cols:
+                    cat_pipeline = Pipeline([
+                        ('cat_imputer', SimpleImputer(strategy='most_frequent')),
+                        ('onehot', OneHotEncoder(handle_unknown='ignore'))
+                    ])
+                    transformers.append(('cat_onehot', cat_pipeline, one_hot_encode_cols))
+
+                if label_encode_cols:
+                    for col in label_encode_cols:
+                        transformers.append((f'{col}_label', FunctionTransformer(self.label_encode), [col]))
+
+            self.preprocessing_pipeline = ColumnTransformer(transformers, remainder='passthrough')
+            self.preprocessing_pipeline.fit(X)
+            self.fit_status = True
+            self.feature_names_out = self.get_feature_names_out()
+            logger.log("Successfully fitted the pre-processing pipeline!")
+        except Exception as e:
+            logger.log(f"Error during fit: {str(e)}")
+
+    def preprocessor_transform(self, X):
+        """
+        Transform the input data using the fitted preprocessor.
+
+        Args:
+            X (pd.DataFrame): Input data to transform.
+
+        Returns:
+            pd.DataFrame: Transformed data with original column names.
+        """
+        try:
+            if not self.fit_status:
+                raise ValueError("Preprocessor must be fit on data before transforming.")
+            transformed_data = self.preprocessing_pipeline.transform(X)
+            transformed_df = pd.DataFrame(transformed_data, columns=self.feature_names_out)
+            logger.log("Successfully transformed the dataset using the pre-processing pipeline")
+            return transformed_df
+        except Exception as e:
+            logger.log(f"Error during transform: {str(e)}")
+
+    def get_feature_names_out(self):
+        """
+        Get feature names after transformation.
+
+        Returns:
+            list: List of feature names after transformation.
+        """
+        try:
+            if self.preprocessing_pipeline is None:
+                return []
+
+            feature_names_out = []
+            for name, trans, column_names in self.preprocessing_pipeline.transformers_:
+                if trans == 'drop' or trans == 'passthrough':
+                    continue
+                if isinstance(trans, Pipeline):
+                    if name.startswith('cat_onehot') and hasattr(trans.named_steps['onehot'], 'get_feature_names_out'):
+                        feature_names_out.extend(trans.named_steps['onehot'].get_feature_names_out())
+                    else:
+                        feature_names_out.extend(column_names)
+                elif isinstance(trans, FunctionTransformer):
+                    feature_names_out.extend(column_names)
+                else:
+                    feature_names_out.extend(column_names)
+            logger.log("Successfully retrieved features name!")
+            return feature_names_out
+
+        except Exception as e:
+            logger.log(f"Error during get_feature_names_out: {str(e)}")
+
+    def label_encode(self, X):
+        """
+        Apply label encoding to the input data.
+
+        Args:
+            X (pd.Series or pd.DataFrame): Input data to encode.
+
+        Returns:
+            np.ndarray: Label encoded data reshaped to 2D.
+        """
+        try:
+            le = LabelEncoder()
+            logger.log("Successfully performed label encoding!")
+            return le.fit_transform(X.squeeze()).reshape(-1, 1)
+        except Exception as e:
+            raise ValueError(f"Something went wrong while performing label encoding: {e}")
+            logger.log("Something went wrong while finding the numeric and categorical columns", level='ERROR')
 
     def find_numericategory_columns(self, X):
         """
@@ -83,137 +202,16 @@ class MLClassifier:
         :return: numeric and categorical column names
         """
         try:
-            numeric_columns = X.select_dtypes(include=[float, int]).columns.tolist()
-            categorical_columns = X.select_dtypes(exclude=[float, int]).columns.tolist()
-            logger.log('Successfully found numeric and categorical columns from the dataset')
-            return numeric_columns, categorical_columns
+            numeric_cols = X.select_dtypes(include=[float, int]).columns.tolist()
+            categoric_cols = X.select_dtypes(exclude=[float, int]).columns.tolist()
+            logger.log("Successfully extracted numerical and categorical columns!")
+
+            return numeric_cols, categoric_cols
         except Exception as e:
             raise ValueError(f"Something went wrong while finding the numeric and categorical columns: {e}")
             logger.log("Something went wrong while finding the numeric and categorical columns", level='ERROR')
 
-    def minmax_scale_features(self, X):
-        """
-        Applies MinMax Scaler normalization
-
-        Parameters
-        ----------
-        X : features
-
-        Returns
-        -------
-        normalized features
-
-        """
-        try:
-            return self.minmax_scaler.fit_transform(X)
-            logger.log('Successfully performed Min-Max standardization of dataset')
-        except Exception as e:
-            raise ValueError(f"Error in normailizing the data using the Min-Max scaler : {e}")
-            logger.log("An error was raised while attempting to perform standardization using Min-Max ", level='ERROR')
-
-    def standard_scale_features(self, X):
-        """
-        Applies Standard Scaler normalization
-
-        Parameters
-        ----------
-        X : features
-
-        Returns
-        -------
-        normalized features
-
-        """
-        try:
-            return self.standard_scaler.fit_transform(X)
-            logger.log('Successfully performed Standard normalization of dataset')
-        except Exception as e:
-            raise ValueError(f"Error in normailizing the data using the Standard scaler method : {e}")
-            logger.log("An error was raised while attempting to perform standardization using Standard scaler method ",
-                       level='ERROR')
-
-    def vif_multicollinearity(self, X, threshold=10.0):
-        """
-        Checks for multi-collinearity between features doesn't work well
-        :param X:
-        :param threshold:
-        :return: non-collinear features
-        """
-        try:
-            numeric_features, _ = self.find_numericategory_columns(X)
-            x_num = self.pre_process(X[numeric_features])
-            vif_data = pd.DataFrame()
-            vif_data["feature"] = X[numeric_features].columns
-            vif_data["VIF"] = [variance_inflation_factor(x_num, i) for i in range(X[numeric_features].shape[1])]
-
-            # Drop columns with VIF above the threshold
-            high_vif_features = vif_data[vif_data["VIF"] > threshold]["feature"].tolist()
-            x_dropped = X.drop(columns=high_vif_features)
-            logger.log("Successfully performed the multi-collinearity check step!")
-
-            return x_dropped.columns, high_vif_features, vif_data
-        except Exception as e:
-            raise ValueError(f"Error in checking multi-collinearity: {e}")
-            logger.log("Something went wrong while checking multi-collinearity:", level='ERROR')
-
-    def pre_process(self, X_train, X_test):
-        """
-        Create data pre-processing pipeline using min-max scaler and one-hot encoding
-        :param X_train:
-        :param X_test:
-        :return:
-        """
-        try:
-            numeric_features, categorical_features = self.find_numericategory_columns(X_train)
-            numeric_transformer = Pipeline(steps=[('scaler', MinMaxScaler())])
-            categorical_transformer = Pipeline(steps=[('onehot', OneHotEncoder(handle_unknown='ignore'))])
-            self.preprocessor = ColumnTransformer(transformers=[
-                ('num', numeric_transformer, numeric_features),
-                ('cat', categorical_transformer, categorical_features)])
-            X_train_processed = self.preprocessor.fit_transform(X_train)
-            X_test_processed = self.preprocessor.transform(X_test)
-            logger.log("Successfully performed the pre-processing step!")
-            return X_train_processed, X_test_processed
-        except Exception as e:
-            raise ValueError(f"Error in preprocessing data: {e}")
-            logger.log("Something went wrong while pre-processing the dataset", level='ERROR')
-
-    def pre_process_le(self, X_train, X_test):
-        """
-        Create data pre-processing pipeline using min-max scaler and label encoding
-        :param X_train:
-        :param X_test:
-        :return:
-        """
-        try:
-            numeric_features, categorical_features = self.find_numericategory_columns(X_train)
-            numeric_transformer = Pipeline(steps=[('scaler', MinMaxScaler())])
-            # Define a function to apply LabelEncoder to categorical columns
-            def label_encode_column(column):
-                le = LabelEncoder()
-                return le.fit_transform(column)
-
-            # Create a transformer for categorical features using a custom FunctionTransformer
-            categorical_transformer = Pipeline(steps=[('label_encoder', FunctionTransformer(func=lambda col: col.apply(label_encode_column), validate=False))])
-            # Create the column transformer
-            self.preprocessor = ColumnTransformer(transformers=[
-                ('num', numeric_transformer, numeric_features),
-                ('cat', categorical_transformer, categorical_features)])
-
-            # Fit and transform the training data, and transform the test data
-            X_train_processed = self.preprocessor.fit_transform(X_train)
-            X_test_processed = self.preprocessor.transform(X_test)
-
-            # Convert the transformed arrays back to DataFrames with proper column names
-            X_train_processed = pd.DataFrame(X_train_processed, columns=numeric_features + categorical_features)
-            X_test_processed = pd.DataFrame(X_test_processed, columns=numeric_features + categorical_features)
-            logger.log("Successfully performed the pre-processing step!")
-            return X_train_processed, X_test_processed
-        except Exception as e:
-            raise ValueError(f"Error in preprocessing data: {e}")
-            logger.log("Something went wrong while pre-processing the dataset", level='ERROR')
-
-    def fit_models(self, X, y):
+    def fit_all_models(self, X, y):
         """
          Perform  regression on train-set using specified model
         :param X:
@@ -229,7 +227,7 @@ class MLClassifier:
                 else:
                     print(f"Training {name}...")
                     model.fit(X, y)
-                print("Success training of model sucessfull!")
+                print("Success training of model successfull!")
                 trained_models[name] = model
             logger.log("Successfully trained the models")
             self.trained_models = trained_models
@@ -271,12 +269,6 @@ class MLClassifier:
             return {
                 "accuracy": accuracy,
                 "roc_auc": roc_auc_scores
-                #"confusion_matrix": conf_matrix,
-                #"Classification_report": class_report,
-                #"fpr": fpr,
-                #"tpr": tpr,
-                #"thresholds": thresholds
-
             }
         except Exception as e:
             raise ValueError(f"Error in evaluating model: {e}")
@@ -284,7 +276,7 @@ class MLClassifier:
 
     def select_best_model(self, X_train, X_test, y_train, y_test):
         """
-        Select the best ML model based on adjusted roc_auc score
+        Select the best ML model based on accuracy score
         :param X_train:
         :param X_test:
         :param y_train:
@@ -302,8 +294,8 @@ class MLClassifier:
                 test_scores = self.evaluate_model(y_test, y_test_pred, y_test_pred_proba)
 
                 self.evaluation_results[model_name] = {"Train": train_scores, "Test": test_scores}
-                if test_scores["roc_auc"] > best_score:
-                    best_score = test_scores["roc_auc"]
+                if test_scores["accuracy"] > best_score:
+                    best_score = test_scores["accuracy"]
                     best_model_name = model_name
                     best_model = model
             self.best_model = best_model
@@ -313,6 +305,89 @@ class MLClassifier:
         except Exception as e:
             raise ValueError(f"Error in selecting the best model: {e}")
             logger.log("Something went wrong while selecting the best model", level='ERROR')
+
+    def tune_parameters(self, model_name, X, y, cv=5, scoring='accuracy'):
+        """
+        Perform parameter tuning of parameters using Grid Search CV
+        :param model_name:
+        :param X:
+        :param y:
+        :param cv:
+        :param scoring: ''accuracy', 'roc_auc'
+        :return:
+
+        """
+        try:
+            # Define models and their parameter grids
+            models = {'LogisticClassifier': (LogisticRegression(max_iter=self.max_iter,
+                                                                class_weight='balanced',
+                                                                random_state=self.random_state), {
+                                                 'C': [0.01, 0.1, 1, 10, 100, 200, 500],
+                                                 'solver': ['newton-cg', 'lbfgs', 'liblinear']
+                                             }),
+
+                      'RandomForestClassifier': (
+                          RandomForestClassifier(random_state=self.random_state, class_weight='balanced'), {
+                              'n_estimators': [100, 200, 500, 1000],
+                              'max_depth': [None, 10, 20, 30],
+                              'min_samples_split': [2, 5, 10]}),
+
+                      'SupportVectorClassifier': (SVC(probability=True, cache_size=300,
+                                                      class_weight='balanced', verbose=True, max_iter=self.max_iter,
+                                                      random_state=self.random_state), {
+                                                      'C': [0.1, 1, 10, 100, 200],
+                                                      'gamma': ['scale', 'auto'],
+                                                      'kernel': ['linear', 'poly', 'rbf', 'sigmoid']}),
+
+                      'XGBClassifier': (
+                      xgb.XGBClassifier(n_estimators=self.n_estimators, learning_rate=self.learning_rate,
+                                        random_state=self.random_state, scale_pos_weight=1), {
+                          'max_depth': [3, 4, 5, 7,10]}),
+
+                      'CatBoostClassifier': (
+                      CatBoostClassifier(loss_function='Logloss', eval_metric='Accuracy', verbose=10,
+                                         auto_class_weights='Balanced'), {
+                          'iterations': [10, 50, 100, 200, 500],
+                          'learning_rate': [0.001, 0.01, 0.1, 0.2],
+                          'depth': [3, 4, 5, 7]})
+                      }
+
+            # Select the model and parameter grid
+            model, param_grid = models[model_name]
+            # Initialize GridSearchCV
+            grid_search = GridSearchCV(estimator=model, param_grid=param_grid, scoring=scoring, n_jobs=-1, cv=cv)
+            grid_search.fit(X, y)
+            # Get the best parameters and the best score
+            best_params = grid_search.best_params_
+            best_score = grid_search.best_score_
+            self.best_model = grid_search.best_estimator_
+            logger.log("Successfully tuned the parameters using GridSearchCV")
+            return grid_search.best_estimator_, best_params, best_score
+        except Exception as e:
+            raise ValueError(f"Error in tuning parameters using GridSearchCV: {e}")
+            logger.log("Something went wrong while tuning parameters using GridSearchCV", level='ERROR')
+
+    def cross_validate_models(self, model_name, X, y, n_splits=5):
+        """
+        Perform cross validation of specified model
+        :param X:
+        :param y:
+        :param n_splits:
+        :param model_name:
+        :return:
+        """
+        try:
+            # Perform grid search to get the best model
+            best_model, best_params, best_score = self.tune_parameters(model_name, X, y)
+            # Initialize KFold
+            kf = KFold(n_splits=n_splits, shuffle=True, random_state=self.random_state)
+            accuracy_scores = cross_val_score(best_model, X, y, cv=kf, scoring='accuracy')
+            roc_auc_scores = cross_val_score(best_model, X, y, cv=kf, scoring='roc_auc')
+            logger.log("Successfully performed cross-validation")
+            return np.mean(accuracy_scores), np.std(roc_auc_scores)
+        except Exception as e:
+            raise ValueError(f"Error in cross-validating models: {e}")
+            logger.log("Something went wrong while performing KFold cross validation", level='ERROR')
 
     def save_best_model(self, file_path='model.pickle'):
         """
@@ -389,42 +464,12 @@ class MLClassifier:
             raise ValueError(f"Error while finding the number of clusters : {e}")
             logger.log("An error was raised while finding the number of clusters", level='ERROR')
 
-    def split_train_test(self, data, test_size=0.01):
-        """
-
-        :param data:
-        :param test_size:
-        :return:
-        """
-        try:
-            # Ensure the data is sorted by date
-            df = data.sort_index()
-            # Split the data
-            #train_df = df.iloc[:-1]
-            #test_df = df.iloc[-1:]
-            # Calculate the number of test samples
-            n_test = int(len(df) * test_size)
-            # Split the data
-            train_df = df[:-n_test]
-            test_df = df[-n_test:]
-            # Separate features and target
-            X_train = train_df.drop(columns=['Target'])
-            y_train = train_df['Target']
-            X_test = test_df.drop(columns=['Target'])
-            y_test = test_df['Target']
-            logger.log('Successfully splitted the dataset into train-test sets')
-            # X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=test_size, random_state=self.random_state)
-            return X_train, X_test, y_train, y_test
-            # return
-        except Exception as e:
-            raise ValueError(f"Error while splitting the dataset to train-test sets : {e}")
-            logger.log("An error was raised while splitting the dataset to train-test sets", level='ERROR')
-
     def plot_confusion_matrix(self, X, y):
         try:
 
             if self.best_model is None:
-                raise ValueError("No model has been trained yet. Please train the model before plotting the confusion matrix.")
+                raise ValueError(
+                    "No model has been trained yet. Please train the model before plotting the confusion matrix.")
             y_pred = self.best_model.predict(X)
             cm = confusion_matrix(y, y_pred)
 
@@ -433,7 +478,8 @@ class MLClassifier:
             plt.xlabel('Predicted')
             plt.ylabel('Actual')
             plt.title(f'Confusion Matrix for {self.best_model_name}')
-            plt.show(block=False)
+            plt.savefig(f'confusion_matrix_{self.best_model_name}.png')
+            #plt.show(block=False)
         except Exception as e:
             raise ValueError(f"Error while plotting the confusion matrix : {e}")
             logger.log("An error was raised while plotting the confusion matrix", level='ERROR')
@@ -485,8 +531,6 @@ class MLClassifier:
         except Exception as e:
             raise ValueError(f"Error while rendering distribution plots of target variable : {e}")
             logger.log("An error was raised while rendering distribution plots of target variable", level='ERROR')
-
-
 
 
 # Press the green button in the gutter to run the script.
