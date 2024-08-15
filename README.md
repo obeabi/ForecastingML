@@ -7,7 +7,7 @@
 
 ## Overview
 
-Welcome to this Stcok Price Prediction Repository! This repository provides a highly useful classes that leverages state-of-the-art machine learning models for performing classification and regression tasks for stock price prediction problem. The end-to-end class is designed to facilitate the entire workflow of the classification  approach to stock price prediction, including data downloading, adding technical indicators, adding macro-economic data, data cleaning, feature engineering, dataset splitting, model training, hyperparameter tuning, clustering, and establishing feature importance.
+Welcome to this Stock Price Prediction Repository! This repository provides a highly useful classes that leverages state-of-the-art machine learning models for performing classification and regression tasks for stock price prediction problem. The end-to-end class is designed to facilitate the entire workflow of the classification  approach to stock price prediction, including data downloading, adding technical indicators, adding macro-economic data, data cleaning, feature engineering, dataset splitting, model training, hyperparameter tuning, clustering, and establishing feature importance.
 
 ## Features
 
